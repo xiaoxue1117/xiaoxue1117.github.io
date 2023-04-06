@@ -61,7 +61,7 @@ My research interest includes automatic lyrics transcription, speech recognition
 
 -- **Conference Papers** --
 - **Xiaoxue Gao**, Xianghu Yue, Haizhou Li, [Self-Transriber: Few-shot Lyrics Transcription with Self-training](https://arxiv.org/pdf/2211.10152.pdf), ICASSP, 2023.
-- Xianghu Yue, **Xiaoxue Gao<sup>`*`</sup>**, Haizhou Li, [token2vec: A Joint Self-Supervised Pre-training Framework Using Unpaired Speech and Text](https://arxiv.org/pdf/2211.10152.pdf), ICASSP, 2023.
+- Xianghu Yue, **Xiaoxue Gao<sup>`*`</sup>**, Haizhou Li, [token2vec: A Joint Self-Supervised Pre-training Framework Using Unpaired Speech and Text](https://www.researchgate.net/publication/364953554_token2vec_A_Joint_Self-Supervised_Pre-training_Framework_Using_Unpaired_Speech_and_Text), ICASSP, 2023.
 - **Xiaoxue Gao**, Chitralekha Gupta, Haizhou Li, [Genre-conditioned Acoustic Models for Automatic Lyrics Transcription of Polyphonic Music](https://arxiv.org/pdf/2204.03307.pdf), ICASSP, 2022.
 - **Xiaoxue Gao**, Chitralekha Gupta, Haizhou Li, [Music-robust Automatic Lyrics Transcription of Polyphonic Music](https://arxiv.org/pdf/2204.03306.pdf), SMC, 2022.
 - **Xiaoxue Gao**, Chitralekha Gupta, Haizhou Li, [Lyrics Transcription and Lyrics-to-audio Alignment with Music Informed Acoustic Models]([https://arxiv.org/pdf/2204.03306.pdf](https://www.researchgate.net/profile/Gao-Xiaoxue/publication/345628181_LYRICS_TRANSCRIPTION_AND_LYRICS-TO-AUDIO_ALIGNMENT_WITH_MUSIC-INFORMED_ACOUSTIC_MODELS/links/5fa953cb92851cc286a08264/LYRICS-TRANSCRIPTION-AND-LYRICS-TO-AUDIO-ALIGNMENT-WITH-MUSIC-INFORMED-ACOUSTIC-MODELS.pdf)), MIREX, 2020.
