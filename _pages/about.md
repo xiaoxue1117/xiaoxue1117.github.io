@@ -29,13 +29,13 @@ My research interest includes automatic lyrics transcription, speech recognition
 
 
 # 📝 Publications 
--- **Journal Papers** --
+- **Journal Papers** -
 - **Xiaoxue Gao**, Chitralekha Gupta, Haizhou Li, [PoLyScriber: Integrated Training of Extractor and Lyrics Transcriber for Polyphonic Music](https://arxiv.org/pdf/2207.07336.pdf), submitted to TALSP, 2023.
 - **Xiaoxue Gao**, Chitralekha Gupta, Haizhou Li, [Automatic Lyrics Transcription of Polyphonic Music with Lyrics-Chords Multi-Task Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9833328), TALSP, 2022.
 - Bidisha Sharma, **Xiaoxue Gao**, Karthika Vijayan, Xiaohai Tian and Haizhou Li, [NHSS: A Speech and Singing Parallel Database](https://arxiv.org/pdf/2012.00337.pdf), Speech Communication, 2021.
 
 
--- **Conference Papers** --
+- **Conference Papers** -
 - **Xiaoxue Gao**, Xianghu Yue, Haizhou Li, [Self-Transriber: Few-shot Lyrics Transcription with Self-training](https://arxiv.org/pdf/2211.10152.pdf), ICASSP, 2023.
 - Xianghu Yue, **Xiaoxue Gao<sup>`*`</sup>**, Haizhou Li, [token2vec: A Joint Self-Supervised Pre-training Framework Using Unpaired Speech and Text](https://arxiv.org/pdf/2211.10152.pdf), ICASSP, 2023.
 - **Xiaoxue Gao**, Chitralekha Gupta, Haizhou Li, [Genre-conditioned Acoustic Models for Automatic Lyrics Transcription of Polyphonic Music](https://arxiv.org/pdf/2204.03307.pdf), ICASSP, 2022.
@@ -65,9 +65,14 @@ My research interest includes automatic lyrics transcription, speech recognition
 
 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💬 Talks
+- *2022.08*, Automatic Lyrics Transcription of Polyphonic Music, National Institute of Informatics, Japan.
+- *2022.06*, Music-robust Automatic Lyrics Transcription of Polyphonic Music, SMC 2022, France (virtual).
+- *2022.05*, Genre-conditioned Acoustic Models for Automatic Lyrics Transcription of Polyphonic Music, ICASSP, Singapore.
+- *2019.11*, Speaker-independent Spectral Mapping for Speech-to-Singing Conversion, IEEE APSIPA ASC, Lanzhou, China.
+- *2018.10*, NUS-HLT Spoken Lyrics and Singing (SLS) Corpus, IEEE ICOT, Bali, Indonesia.
+
+
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2022.07 - 2022.08*, National Institute of Informatics, Japan.
