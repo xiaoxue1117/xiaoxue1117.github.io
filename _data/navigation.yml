@@ -7,10 +7,10 @@ main:
     url: "/#-news"
     
   - title: "Research Area"
-    url: "/#-research Area"
+    url: "/#-research-area"
     
   - title: "Research Experiences"
-    url: "/#-research Experiences"
+    url: "/#-research-experiences"
   
   - title: "Educations"
     url: "/#-educations"
@@ -23,7 +23,7 @@ main:
 
 
   - title: "Talks"
-    url: "/#-invited-talks"
+    url: "/#-talks"
 
   - title: "Internships"
     url: "/#-internships"
