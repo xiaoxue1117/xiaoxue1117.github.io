@@ -5,22 +5,28 @@ main:
 
   - title: "News"
     url: "/#-news"
-
+    
+  - title: "Research Area"
+    url: "/#-research Area"
+    
+  - title: "Research Experiences"
+    url: "/#-research Experiences"
+  
+  - title: "Educations"
+    url: "/#-educations"
+    
   - title: "Publications"
     url: "/#-publications"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
-  - title: "Educations"
-    url: "/#-educations"
 
   - title: "Talks"
     url: "/#-invited-talks"
 
   - title: "Internships"
     url: "/#-internships"
-
 
   - title: "Projects"
     url: "/#-projects"
