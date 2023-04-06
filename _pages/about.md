@@ -43,7 +43,7 @@ My research interest includes automatic lyrics transcription, speech recognition
 
 # 📖 Educations
 - *2017.08 - 2022.10*, Ph.D. in Electrical and Computer Engineering, National University of Singapore (NUS), Singapore.
-- *2013.09 - 2017.07*, B.Eng. in Electronic Information Science and Technology, Nanjing University, Nanjing, China.
+- *2013.09 - 2017.07*, B.Sc. in Electronic Information Science and Technology, Nanjing University, Nanjing, China.
 
 
 # 🔥 News
