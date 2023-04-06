@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Research Fellow at the Department of Electrical and Computer Engineering (ECE), National University of Singapore (NUS). Prior to that, I have received a Ph.D. degree from the National University of Singapore, supervised by Prof. [Haizhou Li](https://colips.org/~eleliha/) (IEEE Fellow) and Prof. Shuzhi Sam Ge (IEEE Fellow). During my PhD studies, I  was a visiting research scholar at National Institute of Informatics (Japan), supervised by Prof. Junichi Yamagishi. I also studied at the Speech Processing Courses Summer School at the University of Crete, supervised by Prof. Yannis Stylianou (IEEE Fellow). I received a B.Sc degree from Nanjing University, Nanjing, China in 2017.
+I am currently a Research Fellow at the Department of Electrical and Computer Engineering (ECE), National University of Singapore (NUS). Prior to that, I have received a Ph.D. degree from the National University of Singapore, supervised by Prof. [Haizhou Li](https://colips.org/~eleliha/) (IEEE Fellow) and Prof. [Shuzhi Sam Ge](https://cde.nus.edu.sg/ece/staff/ge-shuzhi-sam/) (IEEE Fellow). During my PhD studies, I  was a visiting research scholar at National Institute of Informatics (Japan), supervised by Prof. [Junichi Yamagishi](https://researchmap.jp/read0205283?lang=en). I also studied at the Speech Processing Courses Summer School at the University of Crete, supervised by Prof. [Yannis Stylianou](https://www.csd.uoc.gr/CSD/index.jsp?custom=yannis_stylianou&lang=en) (IEEE Fellow). I received a B.Sc degree from Nanjing University, Nanjing, China in 2017.
 
 My research interest includes automatic lyrics transcription, speech recognition, speech-to-singing conversion, singing information processing, music information retrieval and multi-modal processing. I have published more than ten papers in leading journals and conferences, including IEEE/ACM Transaction on Audio, Speech and Language Processing (TALSP), Speech Communications, IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), INTERSPEECH, IEEE APSIPA ASC, Speaker Odyssey, SMC and IEEE ICOT.
 
@@ -40,6 +40,11 @@ My research interest includes automatic lyrics transcription, speech recognition
 - *2019.07*, Research Scholar, University of Crete, Greece.
 - *2018.11 - 2021.12*, Research Engineer, National University of Singapore (NUS), Singapore.
 - *2018.01 - 2018.11*, Research Asistant, National University of Singapore (NUS), Singapore.
+
+# 📖 Educations
+- *2017.08 - 2022.10*, Ph.D. in Electrical and Computer Engineering, National University of Singapore (NUS), Singapore.
+- *2013.09 - 2017.07*, B.Eng. in Electronic Information Science and Technology, Nanjing University, Nanjing, China.
+
 
 # 🔥 News
 - *2023*: &nbsp;🎉🎉 Two papers have been accepted by ICASSP 2023!
@@ -76,11 +81,6 @@ My research interest includes automatic lyrics transcription, speech recognition
 - *2016* **Meritorious Winner** (Top 8% winner), American Mathematical Contest in Modeling.
 - *2015* **National Second Prize**, National Undergraduate Electronic Design Contest.
 
-
-
-# 📖 Educations
-- *2017.08 - 2022.10*, Ph.D. in Electrical and Computer Engineering, National University of Singapore (NUS), Singapore.
-- *2013.09 - 2017.07*, B.Eng. in Electronic Information Science and Technology, Nanjing University, Nanjing, China.
 
 
 
