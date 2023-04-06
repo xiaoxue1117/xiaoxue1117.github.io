@@ -48,7 +48,7 @@ My research interest includes automatic lyrics transcription, speech recognition
 
 # 🔥 News
 - *2023*: &nbsp;🎉🎉 Two papers have been accepted by ICASSP 2023!
-- *2020*: &nbsp;🎉🎉 Won first place for two tasks in Automatic Lyrics-to-Audio Alignment Task in Music Information Retreval Evaluation eXchange International Benchmarking Competition 2020. Check it in [NUS ECE news]().
+- *2020*: &nbsp;🎉🎉 Won first place for two tasks in Automatic Lyrics-to-Audio Alignment Task in Music Information Retreval Evaluation eXchange International Benchmarking Competition 2020. Check it in [NUS ECE news](https://www.eng.nus.edu.sg/ece/news/aligning-lyrics-to-singing-vocal-top-results-in-the-mirex-international-benchmarking-2020/).
 - *2019*: &nbsp;🎉🎉 Received Best Poster Award Runner Up Prize at 4th Workshop for Young Female Researchers in INTERSPEECH, Graz, Austria. Check it in [NUS ECE news]().
 
 
@@ -74,7 +74,7 @@ My research interest includes automatic lyrics transcription, speech recognition
 
 
 # 🎖 Honors and Awards
-- *2020* **Ranked first** in Automatic Lyrics-to-Audio Alignment Task in Music Information Retreval Evaluation eXchange International Benchmarking Competition 2020.
+- *2020* **Ranked first** in Automatic Lyrics-to-Audio Alignment Task in Music Information Retreval Evaluation eXchange International Benchmarking Competition 2020. The winning Lyrics-to-Audio Alignment system NUS Auto Lyrix Align is now available online as an interactive web interface: The winning Lyrics-to-Audio Alignment system NUS Auto Lyrix Align is now available online as an interactive web interface: [https://autolyrixalign.hltnus.org/](https://autolyrixalign.hltnus.org/)
 - *2020* **Ranked first** in Automatic Lyrics Transcription Task in Music Information Retreval Evaluation eXchange International Benchmarking Competition 2020.
 - *2019* **Best Poster Award Runner Up Prize**, “Speech-to-Singing Conversion and Synthesis” at 4th Workshop for Young Female Researchers in INTERSPEECH, Graz, Austria.
 - *2019* **ISCA Grants**,“Average Modeling for Spectral Mapping in Speech-to-Singing Conversion” at 2019 Speech Processing Courses in Crete Conversational Speech Synthesis: from design to evaluation, University of Crete, Heraklion Crete, Greece.
