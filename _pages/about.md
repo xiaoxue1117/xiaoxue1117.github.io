@@ -21,6 +21,25 @@ I am currently a Research Fellow at the Department of Electrical and Computer En
 
 My research interest includes automatic lyrics transcription, speech recognition, speech-to-singing conversion, singing information processing, music information retrieval and multi-modal processing. I have published more than ten papers in leading journals and conferences, including IEEE/ACM Transaction on Audio, Speech and Language Processing (TALSP), Speech Communications, IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), INTERSPEECH, IEEE APSIPA ASC, Speaker Odyssey, SMC and IEEE ICOT.
 
+# 📜 Research Area
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td style="border: none;"> <font color="#0b5394"> Speech Processing </font>: <BR>&nbsp;&nbsp; Automatic Speech Recognition；Speech-to-Singing Conversion; Voice Conversion; Speech Synthesis</td>
+    <td style="border: none;"> <font color="#0b5394"> Singing Processing </font>: <BR>&nbsp;&nbsp; Speech-to-Singing Conversion; Singing Voice Conversion; Automatic lyrics transcription of Solo-singing; Lyrics-to-Audio Alignment</td>
+    <td style="border: none;"> <font color="#0b5394"> Music Information Retrieval </font>: <BR>&nbsp;&nbsp; Automatic lyrics transcription of Polyphonic Music; Automatic Chord Transcription; Music Source Separation; Automatic Musical Genre Recognition</td>
+  </tr>
+  <tr style="border: none;">
+    <td style="border: none;"> <font color="#0b5394"> Multi-modal Processing </font>: <BR>&nbsp;&nbsp; Audio-visual active speaker detection </td>
+    <td style="border: none;"> <font color="#0b5394"> Self-supervised Learning </font>: <BR>&nbsp;&nbsp; Self-supervised speech processing; Self-supervised Language processing </td>
+  </tr>
+</table>
+
+# 💻 Research Experiences
+- *2022.11 - Present*, Research Fellow, National University of Singapore (NUS), Singapore.
+- *2022.07 - 2022.08*, Research Scholar, National Institute of Informatics, Japan.
+- *2019.07*, Research Scholar, University of Crete, Greece.
+- *2018.11 - 2021.12*, Research Engineer, National University of Singapore (NUS), Singapore.
+- *2018.01 - 2018.11*, Research Asistant, National University of Singapore (NUS), Singapore.
 
 # 🔥 News
 - *2023*: &nbsp;🎉🎉 Two papers have been accepted by ICASSP 2023!
@@ -29,13 +48,13 @@ My research interest includes automatic lyrics transcription, speech recognition
 
 
 # 📝 Publications 
-- **Journal Papers** -
+-- **Journal Papers** --
 - **Xiaoxue Gao**, Chitralekha Gupta, Haizhou Li, [PoLyScriber: Integrated Training of Extractor and Lyrics Transcriber for Polyphonic Music](https://arxiv.org/pdf/2207.07336.pdf), submitted to TALSP, 2023.
 - **Xiaoxue Gao**, Chitralekha Gupta, Haizhou Li, [Automatic Lyrics Transcription of Polyphonic Music with Lyrics-Chords Multi-Task Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9833328), TALSP, 2022.
 - Bidisha Sharma, **Xiaoxue Gao**, Karthika Vijayan, Xiaohai Tian and Haizhou Li, [NHSS: A Speech and Singing Parallel Database](https://arxiv.org/pdf/2012.00337.pdf), Speech Communication, 2021.
 
 
-- **Conference Papers** -
+-- **Conference Papers** --
 - **Xiaoxue Gao**, Xianghu Yue, Haizhou Li, [Self-Transriber: Few-shot Lyrics Transcription with Self-training](https://arxiv.org/pdf/2211.10152.pdf), ICASSP, 2023.
 - Xianghu Yue, **Xiaoxue Gao<sup>`*`</sup>**, Haizhou Li, [token2vec: A Joint Self-Supervised Pre-training Framework Using Unpaired Speech and Text](https://arxiv.org/pdf/2211.10152.pdf), ICASSP, 2023.
 - **Xiaoxue Gao**, Chitralekha Gupta, Haizhou Li, [Genre-conditioned Acoustic Models for Automatic Lyrics Transcription of Polyphonic Music](https://arxiv.org/pdf/2204.03307.pdf), ICASSP, 2022.
@@ -74,5 +93,7 @@ My research interest includes automatic lyrics transcription, speech recognition
 
 
 
-# 💻 Internships
+# 💻 Internships and Summer School
 - *2022.07 - 2022.08*, National Institute of Informatics, Japan.
+- *2019.07*, Research Scholar at the Speech Processing Courses Summer School, University of Crete, Heraklion Crete, Greece.
+
