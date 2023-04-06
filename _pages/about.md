@@ -21,6 +21,11 @@ I am currently a Research Fellow at the Department of Electrical and Computer En
 
 My research interest includes automatic lyrics transcription, speech recognition, speech-to-singing conversion, singing information processing, music information retrieval and multi-modal processing. I have published more than ten papers in leading journals and conferences, including IEEE/ACM Transaction on Audio, Speech and Language Processing (TALSP), Speech Communications, IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), INTERSPEECH, IEEE APSIPA ASC, Speaker Odyssey, SMC and IEEE ICOT.
 
+# 🔥 News
+- *2023*: &nbsp;🎉🎉 Two papers have been accepted by ICASSP 2023!
+- *2020*: &nbsp;🎉🎉 Won first places for two tasks in Automatic Lyrics-to-Audio Alignment Task in Music Information Retreval Evaluation eXchange International Benchmarking Competition 2020. Check it in [NUS ECE news](https://www.eng.nus.edu.sg/ece/news/aligning-lyrics-to-singing-vocal-top-results-in-the-mirex-international-benchmarking-2020/).
+- *2019*: &nbsp;🎉🎉 Received Best Poster Award Runner Up Prize at 4th Workshop for Young Female Researchers in INTERSPEECH, Graz, Austria. Check it in [NUS ECE news](https://cde.nus.edu.sg/ece/news-detail/best-poster-award-young-female-researchers-in-speech-science-and-technology/).
+
 # 📜 Research Area
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
@@ -44,12 +49,6 @@ My research interest includes automatic lyrics transcription, speech recognition
 # 📖 Educations
 - *2017.08 - 2022.10*, Ph.D. in Electrical and Computer Engineering, National University of Singapore (NUS), Singapore.
 - *2013.09 - 2017.07*, B.Sc. in Electronic Information Science and Technology, Nanjing University, Nanjing, China.
-
-
-# 🔥 News
-- *2023*: &nbsp;🎉🎉 Two papers have been accepted by ICASSP 2023!
-- *2020*: &nbsp;🎉🎉 Won first places for two tasks in Automatic Lyrics-to-Audio Alignment Task in Music Information Retreval Evaluation eXchange International Benchmarking Competition 2020. Check it in [NUS ECE news](https://www.eng.nus.edu.sg/ece/news/aligning-lyrics-to-singing-vocal-top-results-in-the-mirex-international-benchmarking-2020/).
-- *2019*: &nbsp;🎉🎉 Received Best Poster Award Runner Up Prize at 4th Workshop for Young Female Researchers in INTERSPEECH, Graz, Austria. Check it in [NUS ECE news](https://cde.nus.edu.sg/ece/news-detail/best-poster-award-young-female-researchers-in-speech-science-and-technology/).
 
 
 # 📝 Publications 
