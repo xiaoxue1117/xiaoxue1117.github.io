@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Gao Xiaoxue"
-description              : "Research Fellow at Department of Electrical and Computer Engineering, National University of Singapore"
+description              : "Young Female Researcher"
 repository               : "https://xiaoxue1117.github.io/"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Gao Xiaoxue"
   avatar           : "images/xiaoxue.jpg"
-  bio              : "National University of Singapore"
+  bio              : "Research Fellow, National University of Singapore"
   location         : "Singapore"
   employer         :
   pubmed           : 
