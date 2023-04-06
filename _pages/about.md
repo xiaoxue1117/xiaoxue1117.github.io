@@ -94,7 +94,10 @@ My research interest includes automatic lyrics transcription, speech recognition
 
 
 
-# 💻 Internships and Summer School
+# 💻 Internships
 - *2022.07 - 2022.08*, National Institute of Informatics, Japan.
 - *2019.07*, Research Scholar at the Speech Processing Courses Summer School, University of Crete, Heraklion Crete, Greece.
 
+# 👔 Projects
+- Human-Robot Collaborative AI for Advanced Manufacturing And Engineering, NUS, Singapore.
+- Perfect Singing Vocals, NUS, Singapore.
