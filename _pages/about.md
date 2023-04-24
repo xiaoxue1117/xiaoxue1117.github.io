@@ -95,15 +95,16 @@ My research interest includes automatic lyrics transcription, speech recognition
 - *2022.07 - 2022.08*, National Institute of Informatics, Japan.
 - *2019.07*, Research Scholar at the Speech Processing Courses Summer School, University of Crete, Heraklion Crete, Greece.
 
-# 👔 Projects
-- Human-Robot Collaborative AI for Advanced Manufacturing And Engineering, NUS, Singapore.
-- Perfect Singing Vocals, NUS, Singapore.
 
-# 👔 Research Web Platform
-- Personalized Speech-to-Singing Web: [https://m.youtube.com/watch?v=zjtNUbo-v7w&feature=youtu.be](https://m.youtube.com/watch?v=zjtNUbo-v7w&feature=youtu.be)
+# 📚 Research Web Platform
+- Personalized Speech-to-Singing Web 🎼: [https://m.youtube.com/watch?v=zjtNUbo-v7w&feature=youtu.be](https://m.youtube.com/watch?v=zjtNUbo-v7w&feature=youtu.be)
 - Speaker-independent Spectral Mapping for Speech-to-Singing Conversion: [https://xiaoxue1117.github.io/sample/](https://xiaoxue1117.github.io/sample/)
 - Speech and Singing Parallel Database: [https://hltnus.github.io/NHSSDatabase/](https://hltnus.github.io/NHSSDatabase/)
 - Personalized Singing Voice Generation Demo: [https://xiaoxue1117.github.io/odysseysample/](https://xiaoxue1117.github.io/odysseysample/)
-- Lyrics-to-Audio Alignment Interactive Web Interface: [https://autolyrixalign.hltnus.org/](https://autolyrixalign.hltnus.org/)
+- Lyrics-to-Audio Alignment Interactive Web Interface 🎼: [https://autolyrixalign.hltnus.org/](https://autolyrixalign.hltnus.org/)
 - Few-shot Lyrics Transcription Demo: [https://xiaoxue1117.github.io/icassp2023/](https://xiaoxue1117.github.io/icassp2023/)
 - Integrated Training and Extractor and Lyrics Transcriber Demo: [https://xiaoxue1117.github.io/PaperSample/](https://xiaoxue1117.github.io/PaperSample/)
+
+# 👔 Projects
+- Human-Robot Collaborative AI for Advanced Manufacturing And Engineering, NUS, Singapore.
+- Perfect Singing Vocals, NUS, Singapore.
