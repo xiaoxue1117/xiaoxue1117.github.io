@@ -28,5 +28,8 @@ main:
   - title: "Internships"
     url: "/#-internships"
 
+  - title: "Research Web Platform"
+    url: "/#-research-web-platform"
+
   - title: "Projects"
     url: "/#-projects"
