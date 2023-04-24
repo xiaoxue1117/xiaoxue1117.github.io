@@ -65,7 +65,7 @@ My research interest includes automatic lyrics transcription, speech recognition
 - **Xiaoxue Gao**, Chitralekha Gupta, Haizhou Li, [Music-robust Automatic Lyrics Transcription of Polyphonic Music](https://arxiv.org/pdf/2204.03306.pdf), SMC, 2022.
 - **Xiaoxue Gao**, Chitralekha Gupta, Haizhou Li, [Lyrics Transcription and Lyrics-to-audio Alignment with Music Informed Acoustic Models]([https://arxiv.org/pdf/2204.03306.pdf](https://www.researchgate.net/profile/Gao-Xiaoxue/publication/345628181_LYRICS_TRANSCRIPTION_AND_LYRICS-TO-AUDIO_ALIGNMENT_WITH_MUSIC-INFORMED_ACOUSTIC_MODELS/links/5fa953cb92851cc286a08264/LYRICS-TRANSCRIPTION-AND-LYRICS-TO-AUDIO-ALIGNMENT-WITH-MUSIC-INFORMED-ACOUSTIC-MODELS.pdf)), MIREX, 2020.
 - **Xiaoxue Gao**, Xiaohai Tian, Rohan Kumar Das, Yi Zhou and Haizhou Li, [Personalized Singing Voice Generation Using WaveRNN](https://www.researchgate.net/profile/Gao-Xiaoxue/publication/341120657_Personalized_Singing_Voice_Generation_Using_WaveRNN/links/5eafe41492851cb2677310c3/Personalized-Singing-Voice-Generation-Using-WaveRNN.pdf), Speaker Odyssey, 2020.
-- **Xiaoxue Gao**, Xiaohai Tian, Rohan Kumar Das, Yi Zhou and Haizhou Li, [Speaker-independent Spectral Mapping for Speech-to-Singing Conversion](https://d1wqtxts1xzle7.cloudfront.net/82715109/200-libre.pdf?1648314311=&response-content-disposition=inline%3B+filename%3DSpeaker_independent_Spectral_Mapping_for.pdf&Expires=1680773502&Signature=fXioJt8xbXCq~ZZ1Gr~T8TFJ1f4oau0XgWjk8kEneKtCAi634GEp~~giCwOkcKJetrh1cesPZt1Aga-d9KEegslWcYxgEdMOxsitE1xd~~Vaxy6rkFBFYirCd5nzpj64Ny456rqnMDKuYnrtl~2FGqn0LZw7flnMIY8BAwEZ-FoO5SflAlyM4QHjNmW~TvkQK0hXkP2JxjwGXWkvOW24fGk3LbeVgOc02VKs72DiciO3Tmex6MEt--t~MC9H6D1HA-RhAWBM8pdJ8E99dilu2Lgg2GH0WgmeEbG~~mmGq7mu2ZkkqPqqqy7LM79rqYKL6olDrryblFpmW3Ux6ViLPw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA), IEEE APSIPA ASC, 2019.
+- **Xiaoxue Gao**, Xiaohai Tian, Rohan Kumar Das, Yi Zhou and Haizhou Li, [Speaker-independent Spectral Mapping for Speech-to-Singing Conversion](http://www.apsipa.org/proceedings/2019/pdfs/200.pdf), IEEE APSIPA ASC, 2019.
 - Chitralekha Gupta, Karthika Vijayan, Bidisha Sharma, **Xiaoxue Gao** and Haizhou Li, [NUS Speak-to-Sing: A Web Platform for Personalized Speech-to-Singing Conversion](https://www.isca-speech.org/archive_v0/Interspeech_2019/pdfs/8041.pdf), INTERSPEECH, 2019.
 - Karthika Vijayan, **Xiaoxue Gao** and Haizhou Li, [Analysis of Speech and Singing Signals for Temporal Alignment](http://www.apsipa.org/proceedings/2018/pdfs/0001893.pdf),IEEE APSIPA ASC 2018
 - **Xiaoxue Gao**, Berrak Sisman, Rohan Kumar Das and Karthika Vijayan, [NUS-HLT Spoken Lyrics and Singing (SLS) Corpus](https://www.researchgate.net/profile/Berrak-Sisman/publication/328214772_NUS-HLT_Spoken_Lyrics_and_Singing_SLS_Corpus/links/5bda9a38a6fdcc3a8db5091b/NUS-HLT-Spoken-Lyrics-and-Singing-SLS-Corpus.pdf), IEEE ICOT, 2018
@@ -91,8 +91,6 @@ My research interest includes automatic lyrics transcription, speech recognition
 - *2019.11*, Speaker-independent Spectral Mapping for Speech-to-Singing Conversion, IEEE APSIPA ASC, Lanzhou, China.
 - *2018.10*, NUS-HLT Spoken Lyrics and Singing (SLS) Corpus, IEEE ICOT, Bali, Indonesia.
 
-
-
 # 💻 Internships
 - *2022.07 - 2022.08*, National Institute of Informatics, Japan.
 - *2019.07*, Research Scholar at the Speech Processing Courses Summer School, University of Crete, Heraklion Crete, Greece.
@@ -100,3 +98,12 @@ My research interest includes automatic lyrics transcription, speech recognition
 # 👔 Projects
 - Human-Robot Collaborative AI for Advanced Manufacturing And Engineering, NUS, Singapore.
 - Perfect Singing Vocals, NUS, Singapore.
+
+# 👔 Research Web Platform
+- Personalized Speech-to-Singing Web: [https://m.youtube.com/watch?v=zjtNUbo-v7w&feature=youtu.be](https://m.youtube.com/watch?v=zjtNUbo-v7w&feature=youtu.be)
+- Speaker-independent Spectral Mapping for Speech-to-Singing Conversion: [https://xiaoxue1117.github.io/sample/](https://xiaoxue1117.github.io/sample/)
+- Speech and Singing Parallel Database: [https://hltnus.github.io/NHSSDatabase/](https://hltnus.github.io/NHSSDatabase/)
+- Personalized Singing Voice Generation Demo: [https://xiaoxue1117.github.io/odysseysample/](https://xiaoxue1117.github.io/odysseysample/)
+- Lyrics-to-Audio Alignment Interactive Web Interface: [https://autolyrixalign.hltnus.org/](https://autolyrixalign.hltnus.org/)
+- Few-shot Lyrics Transcription Demo: [https://xiaoxue1117.github.io/icassp2023/](https://xiaoxue1117.github.io/icassp2023/)
+- Integrated Training and Extractor and Lyrics Transcriber Demo: [https://xiaoxue1117.github.io/PaperSample/](https://xiaoxue1117.github.io/PaperSample/)
