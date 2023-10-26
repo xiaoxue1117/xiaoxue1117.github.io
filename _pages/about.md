@@ -22,6 +22,7 @@ I am currently a Research Fellow at the Department of Electrical and Computer En
 My research interest includes automatic lyrics transcription, speech recognition, speech-to-singing conversion, singing information processing, music information retrieval and multi-modal processing. I have published more than ten papers in leading journals and conferences, including IEEE/ACM Transaction on Audio, Speech and Language Processing (TALSP), Speech Communications, IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), INTERSPEECH, IEEE APSIPA ASC, Speaker Odyssey, SMC and IEEE ICOT.
 
 # 🔥 News
+- *2023*: &nbsp;🎉🎉 Dr. Gao was invited as the leading Guest Editor of the special issue "Modeling of Multimodal Speech Recognition and Language Processing" in Electronics (IF:2.9, ISSN 2079-9292).
 - *2023*: &nbsp;🎉🎉 Our TALSP regular paper has been accepted for publication!
 - *2023*: &nbsp;🎉🎉 Two papers have been accepted by ICASSP 2023!
 - *2020*: &nbsp;🎉🎉 Won first places for two tasks in Automatic Lyrics-to-Audio Alignment Task in Music Information Retreval Evaluation eXchange International Benchmarking Competition 2020. Check it in [NUS ECE news](https://www.eng.nus.edu.sg/ece/news/aligning-lyrics-to-singing-vocal-top-results-in-the-mirex-international-benchmarking-2020/).
