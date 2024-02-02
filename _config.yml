@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Gao Xiaoxue"
   avatar           : "images/xiaoxue.jpg"
-  bio              : "Research Fellow, National University of Singapore"
+  bio              : "Research Scientist, I2R, A*STAR"
   location         : "Singapore"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=PzJntEMAAAAJ&hl=en"
-  email            : "xiaoxue.gao@u.nus.edu"
+  email            : "Gao_Xiaoxue@i2r.a-star.edu.sg"
   researchgate     : "https://www.researchgate.net/profile/Gao-Xiaoxue"
   uri              :
   bitbucket        :
