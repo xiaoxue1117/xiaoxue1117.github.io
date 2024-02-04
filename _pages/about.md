@@ -57,6 +57,7 @@ My research interest includes automatic lyrics transcription, speech recognition
 
 # 📝 Publications 
 -- **Journal Papers** --
+- Xianghu Yue, **Xiaoxue Gao<sup>`*`</sup>**, Xinyuan Qian, Haizhou Li, [Adapting Pre-Trained Self-Supervised Learning Model for Speech Recognition with Light-Weight Adapters](https://www.mdpi.com/2079-9292/13/1/190), Electronics, 2024.
 - **Xiaoxue Gao**, Chitralekha Gupta, Haizhou Li, [PoLyScriber: Integrated Fine-tuning of Extractor and Lyrics Transcriber for Polyphonic Music](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10122595), TALSP, 2023.
 - **Xiaoxue Gao**, Chitralekha Gupta, Haizhou Li, [Automatic Lyrics Transcription of Polyphonic Music with Lyrics-Chords Multi-Task Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9833328), TALSP, 2022.
 - Bidisha Sharma, **Xiaoxue Gao**, Karthika Vijayan, Xiaohai Tian and Haizhou Li, [NHSS: A Speech and Singing Parallel Database](https://arxiv.org/pdf/2012.00337.pdf), Speech Communication, 2021.
