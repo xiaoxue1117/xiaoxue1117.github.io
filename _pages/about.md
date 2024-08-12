@@ -22,6 +22,7 @@ I am currently a Research Scientist at I2R, A*STAR. Prior to that, I was a Resea
 My research interest includes automatic lyrics transcription, speech recognition, speech-to-singing conversion, singing information processing, music information retrieval and multi-modal processing. I have published more than ten papers in leading journals and conferences, including IEEE/ACM Transaction on Audio, Speech and Language Processing (TALSP), Speech Communications, IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), INTERSPEECH, IEEE APSIPA ASC, Speaker Odyssey, SMC and IEEE ICOT.
 
 # 🔥 News
+- *2024*: &nbsp;🎉🎉 Two Signal Processing Letters have been accepted for publication!.
 - *2023*: &nbsp;🎉🎉 Dr. Gao was invited as the leading Guest Editor of the special issue "Modeling of Multimodal Speech Recognition and Language Processing" in Electronics (IF:2.9, ISSN 2079-9292).
 - *2023*: &nbsp;🎉🎉 Our TALSP regular paper has been accepted for publication!
 - *2023*: &nbsp;🎉🎉 Two papers have been accepted by ICASSP 2023!
@@ -57,6 +58,8 @@ My research interest includes automatic lyrics transcription, speech recognition
 
 # 📝 Publications 
 -- **Journal Papers** --
+- **Xiaoxue Gao**, Zexin Li, Yiming Chen, Cong Liu and Haizhou Li, [Transferable Adversarial Attacks against ASR], SPL, 2024.
+- Duo Ma, Xianghu Yue, Junyi Ao, **Xiaoxue Gao**, Jiadong Wang and Haizhou Li, [Text-guided HuBERT: Self-Supervised Speech Pre-training via Generative Adversarial Networks](https://arxiv.org/pdf/2404.00861), SPL, 2024.
 - Xianghu Yue, **Xiaoxue Gao<sup>`*`</sup>**, Xinyuan Qian, Haizhou Li, [Adapting Pre-Trained Self-Supervised Learning Model for Speech Recognition with Light-Weight Adapters](https://www.mdpi.com/2079-9292/13/1/190), Electronics, 2024.
 - **Xiaoxue Gao**, Chitralekha Gupta, Haizhou Li, [PoLyScriber: Integrated Fine-tuning of Extractor and Lyrics Transcriber for Polyphonic Music](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10122595), TALSP, 2023.
 - **Xiaoxue Gao**, Chitralekha Gupta, Haizhou Li, [Automatic Lyrics Transcription of Polyphonic Music with Lyrics-Chords Multi-Task Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9833328), TALSP, 2022.
