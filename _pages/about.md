@@ -19,10 +19,10 @@ redirect_from:
 
 I am currently a Research Scientist at I2R, A*STAR. Prior to that, I was a Research Fellow at the Department of Electrical and Computer Engineering (ECE), National University of Singapore (NUS). I have received a Ph.D. degree from the National University of Singapore, supervised by Prof. [Haizhou Li](https://colips.org/~eleliha/) (IEEE Fellow) and Prof. [Shuzhi Sam Ge](https://cde.nus.edu.sg/ece/staff/ge-shuzhi-sam/) (IEEE Fellow). During my PhD studies, I  was a visiting research scholar at National Institute of Informatics (Japan), supervised by Prof. [Junichi Yamagishi](https://researchmap.jp/read0205283?lang=en). I also studied at the Speech Processing Courses Summer School at the University of Crete, supervised by Prof. [Yannis Stylianou](https://www.csd.uoc.gr/CSD/index.jsp?custom=yannis_stylianou&lang=en) (IEEE Fellow). I received a B.Sc degree from Nanjing University, Nanjing, China in 2017.
 
-My research interest includes automatic lyrics transcription, speech recognition, speech-to-singing conversion, singing information processing, music information retrieval and multi-modal processing. I have published more than ten papers in leading journals and conferences, including IEEE/ACM Transaction on Audio, Speech and Language Processing (TALSP), Speech Communications, IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), INTERSPEECH, IEEE APSIPA ASC, Speaker Odyssey, SMC and IEEE ICOT.
+My research interest includes automatic lyrics transcription, speech recognition, speech-to-singing conversion, singing information processing, music information retrieval and multi-modal processing. I have published more than ten papers in leading journals and conferences, including IEEE/ACM Transaction on Audio, Speech and Language Processing (TALSP), IEEE Signal Processing Letters (SPL), Speech Communications, IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), INTERSPEECH, IEEE APSIPA ASC and Speaker Odyssey.
 
 # 🔥 News
-- *2024*: &nbsp;🎉🎉 Two Signal Processing Letters have been accepted for publication!.
+- *2024*: &nbsp;🎉🎉 Two Signal Processing Letters have been accepted for publication!
 - *2023*: &nbsp;🎉🎉 Dr. Gao was invited as the leading Guest Editor of the special issue "Modeling of Multimodal Speech Recognition and Language Processing" in Electronics (IF:2.9, ISSN 2079-9292).
 - *2023*: &nbsp;🎉🎉 Our TALSP regular paper has been accepted for publication!
 - *2023*: &nbsp;🎉🎉 Two papers have been accepted by ICASSP 2023!
@@ -58,7 +58,7 @@ My research interest includes automatic lyrics transcription, speech recognition
 
 # 📝 Publications 
 -- **Journal Papers** --
-- **Xiaoxue Gao**, Zexin Li, Yiming Chen, Cong Liu and Haizhou Li, [Transferable Adversarial Attacks against ASR], SPL, 2024.
+- **Xiaoxue Gao**, Zexin Li, Yiming Chen, Cong Liu and Haizhou Li, Transferable Adversarial Attacks against ASR, SPL, 2024.
 - Duo Ma, Xianghu Yue, Junyi Ao, **Xiaoxue Gao**, Jiadong Wang and Haizhou Li, [Text-guided HuBERT: Self-Supervised Speech Pre-training via Generative Adversarial Networks](https://arxiv.org/pdf/2402.15725), SPL, 2024.
 - Xianghu Yue, **Xiaoxue Gao<sup>`*`</sup>**, Xinyuan Qian, Haizhou Li, [Adapting Pre-Trained Self-Supervised Learning Model for Speech Recognition with Light-Weight Adapters](https://www.mdpi.com/2079-9292/13/1/190), Electronics, 2024.
 - **Xiaoxue Gao**, Chitralekha Gupta, Haizhou Li, [PoLyScriber: Integrated Fine-tuning of Extractor and Lyrics Transcriber for Polyphonic Music](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10122595), TALSP, 2023.
