@@ -35,7 +35,7 @@ My research interest includes automatic lyrics transcription, speech recognition
 # 📜 Research Area
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
-    <td style="border: none;"> <font color="#0b5394"> Speech Processing </font>: <BR>&nbsp;&nbsp; Automatic speech recognition；Speech-to-singing conversion; Voice conversion; Speech synthesis</td>
+    <td style="border: none;"> <font color="#0b5394"> Speech Processing </font>: <BR>&nbsp;&nbsp; Automatic speech recognition；Speech-to-singing conversion; Voice conversion; Speech synthesis; Large audio language models; Audio security</td>
     <td style="border: none;"> <font color="#0b5394"> Singing Processing </font>: <BR>&nbsp;&nbsp; Speech-to-singing conversion; Singing voice conversion; Automatic lyrics transcription of solo-singing; Lyrics-to-audio alignment</td>
     <td style="border: none;"> <font color="#0b5394"> Music Information Retrieval </font>: <BR>&nbsp;&nbsp; Automatic lyrics transcription of polyphonic music; Automatic chord transcription; Music source separation; Automatic musical genre recognition</td>
   </tr>
