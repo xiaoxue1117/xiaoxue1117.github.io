@@ -35,13 +35,14 @@ My research interest includes automatic lyrics transcription, speech recognition
 # 📜 Research Area
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
-    <td style="border: none;"> <font color="#0b5394"> Speech Processing </font>: <BR>&nbsp;&nbsp; Automatic speech recognition；Speech-to-singing conversion; Voice conversion; Speech synthesis; Large audio language models; Audio security</td>
+    <td style="border: none;"> <font color="#0b5394"> Speech Processing </font>: <BR>&nbsp;&nbsp; Automatic speech recognition；Speech-to-singing conversion; Voice conversion; Speech synthesis; Audio security</td>
     <td style="border: none;"> <font color="#0b5394"> Singing Processing </font>: <BR>&nbsp;&nbsp; Speech-to-singing conversion; Singing voice conversion; Automatic lyrics transcription of solo-singing; Lyrics-to-audio alignment</td>
     <td style="border: none;"> <font color="#0b5394"> Music Information Retrieval </font>: <BR>&nbsp;&nbsp; Automatic lyrics transcription of polyphonic music; Automatic chord transcription; Music source separation; Automatic musical genre recognition</td>
   </tr>
   <tr style="border: none;">
     <td style="border: none;"> <font color="#0b5394"> Multi-modal Processing </font>: <BR>&nbsp;&nbsp; Audio-visual active speaker detection </td>
     <td style="border: none;"> <font color="#0b5394"> Self-supervised Learning </font>: <BR>&nbsp;&nbsp; Self-supervised speech processing; Self-supervised language processing </td>
+    <td style="border: none;"> <font color="#0b5394"> Large Language Models </font>: <BR>&nbsp;&nbsp; Audio large language models; speech synthesis with large language models </td>
   </tr>
 </table>
 
