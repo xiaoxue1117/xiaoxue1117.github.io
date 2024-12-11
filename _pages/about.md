@@ -73,7 +73,7 @@ My research interest includes speech synthesis, audio large language models, aut
 
 
 -- **Conference Papers** --
-- Kuluhan Binici, Abhinav Ramesh Kashyap, Viktor Schlegel, Andy T Liu, Vijay Prakash Dwivedi, Thanh-Tung Nguyen, **Xiaoxue Gao**, Nancy F Chen, Stefan Winkler, [MEDSAGE: Enhancing Robustness of Medical Dialogue Summarization to ASR Errors with LLM-generated Synthetic Dialogues](https://arxiv.org/pdf/2408.14418), AAAI, 2024.
+- Kuluhan Binici, Abhinav Ramesh Kashyap, Viktor Schlegel, Andy T Liu, Vijay Prakash Dwivedi, Thanh-Tung Nguyen, **Xiaoxue Gao**, Nancy F Chen, Stefan Winkler, [MEDSAGE: Enhancing Robustness of Medical Dialogue Summarization to ASR Errors with LLM-generated Synthetic Dialogues](https://arxiv.org/pdf/2408.14418), AAAI, 2025.
 - Yiming Chen, Xianghu Yue, **Xiaoxue Gao**, Chen Zhang, Luis Fernando D'Haro, Robby T. Tan and Haizhou Li, [Beyond Single-Audio: Advancing Multi-Audio Processing in Audio Large Language Models](https://arxiv.org/abs/2409.18680), EMNLP, 2024.
 - **Xiaoxue Gao** and Nancy F. Chen, [Speech-Mamba: Long-Context Speech Recognition with Selective State Spaces Models](https://arxiv.org/abs/2409.18654), SLT, 2024.
 - **Xiaoxue Gao**, Xianghu Yue, Haizhou Li, [Self-Transriber: Few-shot Lyrics Transcription with Self-training](https://arxiv.org/pdf/2211.10152.pdf), ICASSP, 2023.
