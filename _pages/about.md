@@ -22,6 +22,7 @@ I am currently a Research Scientist at I2R, A*STAR. Prior to that, I was a Resea
 My research interest includes speech synthesis, audio large language models, automatic lyrics transcription, speech recognition, speech-to-singing conversion, singing information processing, music information retrieval and multi-modal processing. I have published more than 15 papers in leading journals and conferences, including IEEE/ACM Transaction on Audio, Speech and Language Processing (TALSP), IEEE Transactions on Multimedia (TMM), EMNLP, IEEE Signal Processing Letters (SPL), Speech Communications, IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), INTERSPEECH, IEEE APSIPA ASC, IEEE Spoken Language Technology Workshop (SLT) and Speaker Odyssey.
 
 # 🔥 News
+- *2025*: &nbsp;🎉🎉 Our TALSP regular paper has been accepted for publication!
 - *2024*: &nbsp;🎉🎉 Our ICASSP paper has been accepted for publication!
 - *2024*: &nbsp;🎉🎉 Our AAAI has been accepted for publication!
 - *2024*: &nbsp;🎉🎉 Our TMM has been accepted for publication!
@@ -64,6 +65,7 @@ My research interest includes speech synthesis, audio large language models, aut
 
 # 📝 Publications 
 -- **Journal Papers** --
+- **Xiaoxue Gao**, Yiming Chen, Xianghu Yue, Yu Tsao and Nancy F. Chen, [TTSlow: Slow Down Text-to-Speech with Efficiency Robustness Evaluations](https://arxiv.org/pdf/2407.01927), TALSP, 2025.
 - Ruijie Tao, Xinyuan Qian, Rohan Kumar Das, **Xiaoxue Gao**, Jiadong Wang and Haizhou Li, [Enhancing Real-World Active Speaker Detection with Multi-Modal Extraction Pre-Training](https://arxiv.org/pdf/2404.00861), TMM, 2024.
 - **Xiaoxue Gao**, Zexin Li, Yiming Chen, Cong Liu and Haizhou Li, [Transferable Adversarial Attacks against ASR](https://ieeexplore.ieee.org/abstract/document/10637681/), SPL, 2024.
 - Duo Ma, Xianghu Yue, Junyi Ao, **Xiaoxue Gao**, Jiadong Wang and Haizhou Li, [Text-guided HuBERT: Self-Supervised Speech Pre-training via Generative Adversarial Networks](https://arxiv.org/pdf/2402.15725), SPL, 2024.
