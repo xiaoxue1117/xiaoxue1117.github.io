@@ -22,6 +22,7 @@ I am currently a Research Scientist at I2R, A*STAR. Prior to that, I was a Resea
 My research interest includes speech synthesis, audio large language models, automatic lyrics transcription, speech recognition, speech-to-singing conversion, singing information processing, music information retrieval and multi-modal processing. I have published more than 15 papers in leading journals and conferences, including IEEE/ACM Transaction on Audio, Speech and Language Processing (TALSP), IEEE Transactions on Multimedia (TMM), EMNLP, IEEE Signal Processing Letters (SPL), Speech Communications, IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), INTERSPEECH, IEEE APSIPA ASC, IEEE Spoken Language Technology Workshop (SLT) and Speaker Odyssey.
 
 # 🔥 News
+- *2025*: &nbsp;🎉🎉 Our ACL paper has been accepted for publication!
 - *2025*: &nbsp;🎉🎉 Our TALSP regular paper has been accepted for publication!
 - *2024*: &nbsp;🎉🎉 Our ICASSP paper has been accepted for publication!
 - *2024*: &nbsp;🎉🎉 Our AAAI has been accepted for publication!
@@ -76,6 +77,7 @@ My research interest includes speech synthesis, audio large language models, aut
 
 
 -- **Conference Papers** --
+- Zhengyuan Liu, Geyu Lin, Hui Li Tan, Huayun Zhang, Yanfeng Lu, **Xiaoxue Gao**, Stella Xin Yin, He Sun, Hock Huan Goh, Lung Hsiang Wong and Nancy F. Chen, [SingaKids: A Multilingual Multimodal Dialogic Tutor for Language Learning](https://arxiv.org/pdf/2506.02412), ACL, 2025.
 - **Xiaoxue Gao**, Chen Zhang, Yiming Chen, Huayun Zhang and Nancy F. Chen, [Emo-dpo: Controllable emotional speech synthesis through direct preference optimization](https://arxiv.org/pdf/2409.10157), ICASSP, 2025.
 - Kuluhan Binici, Abhinav Ramesh Kashyap, Viktor Schlegel, Andy T Liu, Vijay Prakash Dwivedi, Thanh-Tung Nguyen, **Xiaoxue Gao**, Nancy F Chen, Stefan Winkler, [MEDSAGE: Enhancing Robustness of Medical Dialogue Summarization to ASR Errors with LLM-generated Synthetic Dialogues](https://arxiv.org/pdf/2408.14418), AAAI, 2025.
 - Yiming Chen, Xianghu Yue, **Xiaoxue Gao**, Chen Zhang, Luis Fernando D'Haro, Robby T. Tan and Haizhou Li, [Beyond Single-Audio: Advancing Multi-Audio Processing in Audio Large Language Models](https://arxiv.org/abs/2409.18680), EMNLP, 2024.
