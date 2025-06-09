@@ -46,7 +46,7 @@ My research interest includes speech synthesis, audio large language models, aut
   <tr style="border: none;">
     <td style="border: none;"> <font color="#0b5394"> Multi-modal Processing </font>: <BR>&nbsp;&nbsp; Audio-visual active speaker detection </td>
     <td style="border: none;"> <font color="#0b5394"> Self-supervised Learning </font>: <BR>&nbsp;&nbsp; Self-supervised speech processing; Self-supervised language processing </td>
-    <td style="border: none;"> <font color="#0b5394"> Large Language Models </font>: <BR>&nbsp;&nbsp; Audio large language models; speech synthesis with large language models </td>
+    <td style="border: none;"> <font color="#0b5394"> Large Language Models </font>: <BR>&nbsp;&nbsp; Audio large language models; speech LLMs; speech synthesis with large language models </td>
   </tr>
 </table>
 
