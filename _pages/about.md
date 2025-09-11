@@ -23,7 +23,7 @@ My research interest includes speech synthesis, audio large language models, aut
 
 # 🔥 News
 - *2025*: &nbsp;🎉🎉 Dr. Gao serves as one of the organizers of AAAI 2026. Our AAAI 2026 workshop has been accepted and is now open for submissions! 🌟 Check it in [audio-aaai](https://sites.google.com/view/audio-aaai/home).
-- *2025*: &nbsp;🎉🎉 Dr. Gao serves as one of the advisory board of ICASSP 2026 grand challenge. Our ICASSP 2026 grand challenge has been accepted and is now open for submissions! 🌟 Check it in [ICASSP 2026 Cadenza Challenge website] (https://cadenzachallenge.org/docs/clip1/intro).
+- *2025*: &nbsp;🎉🎉 Dr. Gao serves as one of the advisory board of ICASSP 2026 grand challenge. Our ICASSP 2026 grand challenge has been accepted and is now open for submissions! 🌟 Check it in [ICASSP 2026 Cadenza Challenge website](https://cadenzachallenge.org/docs/clip1/intro).
 - *2025*: &nbsp;🎉🎉 Our ICMI CCMI paper has been accepted for publication!
 - *2025*: &nbsp;🎉🎉 Our IEEE ASRU paper has been accepted for publication!
 - *2025*: &nbsp;🎉🎉 Our ACL paper has been accepted for publication!
