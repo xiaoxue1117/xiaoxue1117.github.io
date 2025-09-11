@@ -22,7 +22,7 @@ I am currently a Research Scientist at I2R, A*STAR. Prior to that, I was a Resea
 My research interest includes speech synthesis, audio large language models, automatic lyrics transcription, speech recognition, speech-to-singing conversion, singing information processing, music information retrieval and multi-modal processing. I have published more than 15 papers in leading journals and conferences, including IEEE/ACM Transaction on Audio, Speech and Language Processing (TALSP), IEEE Transactions on Multimedia (TMM), EMNLP, IEEE Signal Processing Letters (SPL), Speech Communications, IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), INTERSPEECH, ACL, IEEE ASRU, IEEE APSIPA ASC, IEEE Spoken Language Technology Workshop (SLT) and Speaker Odyssey.
 
 # 🔥 News
-- *2025*: &nbsp;🎉🎉 Dr. Gao serves as one of the organizers of AAAI 2026. Our AAAI 2026 workshop has been accepted and is now open for submissions! 🌟 Check it in [audio-aaai](https://sites.google.com/view/audio-aaai/home).
+- *2025*: &nbsp;🎉🎉 Dr. Gao serves as one of the organizers of AAAI 2026 worshop on audio AI. Our AAAI 2026 workshop has been accepted and is now open for submissions! 🌟 Check it in [audio-aaai](https://sites.google.com/view/audio-aaai/home).
 - *2025*: &nbsp;🎉🎉 Dr. Gao serves as one of the advisory board of ICASSP 2026 grand challenge. Our ICASSP 2026 grand challenge has been accepted and is now open for submissions! 🌟 Check it in [ICASSP 2026 Cadenza Challenge website](https://cadenzachallenge.org/docs/clip1/intro).
 - *2025*: &nbsp;🎉🎉 Our ICMI CCMI paper has been accepted for publication!
 - *2025*: &nbsp;🎉🎉 Our IEEE ASRU paper has been accepted for publication!
