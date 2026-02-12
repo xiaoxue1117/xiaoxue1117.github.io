@@ -70,6 +70,7 @@ My research interest includes speech synthesis, audio large language models, aut
 
 # 📝 Publications 
 -- **Journal Papers** --
+- **Xiaoxue Gao**, Huayun Zhang and Nancy F. Chen, [Prompt-Unseen-Emotion: Mixed Emotional Speech Synthesis With Prompt-LLM Contextual Knowledge](https://ieeexplore.ieee.org/abstract/document/11223079/), SPL, 2025.
 - **Xiaoxue Gao**, Yiming Chen, Xianghu Yue, Yu Tsao and Nancy F. Chen, [TTSlow: Slow Down Text-to-Speech with Efficiency Robustness Evaluations](https://arxiv.org/pdf/2407.01927), TALSP, 2025.
 - Ruijie Tao, Xinyuan Qian, Rohan Kumar Das, **Xiaoxue Gao**, Jiadong Wang and Haizhou Li, [Enhancing Real-World Active Speaker Detection with Multi-Modal Extraction Pre-Training](https://arxiv.org/pdf/2404.00861), TMM, 2024.
 - **Xiaoxue Gao**, Zexin Li, Yiming Chen, Cong Liu and Haizhou Li, [Transferable Adversarial Attacks against ASR](https://ieeexplore.ieee.org/abstract/document/10637681/), SPL, 2024.
@@ -81,6 +82,7 @@ My research interest includes speech synthesis, audio large language models, aut
 
 
 -- **Conference Papers** --
+- Xiaodan Chen, **Xiaoxue Gao**, Mathias Quoy, Alexandre Pitti, Nancy F Chen, [Confidence-Based Self-Training for EMG-to-Speech: Leveraging Synthetic EMG for Robust Modeling](https://arxiv.org/pdf/2506.11862), ASRU, 2025.
 - Zhengyuan Liu, Geyu Lin, Hui Li Tan, Huayun Zhang, Yanfeng Lu, **Xiaoxue Gao**, Stella Xin Yin, He Sun, Hock Huan Goh, Lung Hsiang Wong and Nancy F. Chen, [SingaKids: A Multilingual Multimodal Dialogic Tutor for Language Learning](https://arxiv.org/pdf/2506.02412), ACL, 2025.
 - **Xiaoxue Gao**, Chen Zhang, Yiming Chen, Huayun Zhang and Nancy F. Chen, [Emo-dpo: Controllable emotional speech synthesis through direct preference optimization](https://arxiv.org/pdf/2409.10157), ICASSP, 2025.
 - Kuluhan Binici, Abhinav Ramesh Kashyap, Viktor Schlegel, Andy T Liu, Vijay Prakash Dwivedi, Thanh-Tung Nguyen, **Xiaoxue Gao**, Nancy F Chen, Stefan Winkler, [MEDSAGE: Enhancing Robustness of Medical Dialogue Summarization to ASR Errors with LLM-generated Synthetic Dialogues](https://arxiv.org/pdf/2408.14418), AAAI, 2025.
