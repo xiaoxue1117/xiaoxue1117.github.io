@@ -82,7 +82,7 @@ My research interest includes speech synthesis, audio large language models, aut
 
 
 -- **Conference Papers** --
-- Xiaodan Chen, **Xiaoxue Gao**, Mathias Quoy, Alexandre Pitti, Nancy F Chen, [Confidence-Based Self-Training for EMG-to-Speech: Leveraging Synthetic EMG for Robust Modeling](https://arxiv.org/pdf/2506.11862), ASRU, 2025.
+- Xiaodan Chen, **Xiaoxue Gao<sup>`*`</sup>**, Mathias Quoy, Alexandre Pitti, Nancy F Chen, [Confidence-Based Self-Training for EMG-to-Speech: Leveraging Synthetic EMG for Robust Modeling](https://arxiv.org/pdf/2506.11862), ASRU, 2025.
 - Zhengyuan Liu, Geyu Lin, Hui Li Tan, Huayun Zhang, Yanfeng Lu, **Xiaoxue Gao**, Stella Xin Yin, He Sun, Hock Huan Goh, Lung Hsiang Wong and Nancy F. Chen, [SingaKids: A Multilingual Multimodal Dialogic Tutor for Language Learning](https://arxiv.org/pdf/2506.02412), ACL, 2025.
 - **Xiaoxue Gao**, Chen Zhang, Yiming Chen, Huayun Zhang and Nancy F. Chen, [Emo-dpo: Controllable emotional speech synthesis through direct preference optimization](https://arxiv.org/pdf/2409.10157), ICASSP, 2025.
 - Kuluhan Binici, Abhinav Ramesh Kashyap, Viktor Schlegel, Andy T Liu, Vijay Prakash Dwivedi, Thanh-Tung Nguyen, **Xiaoxue Gao**, Nancy F Chen, Stefan Winkler, [MEDSAGE: Enhancing Robustness of Medical Dialogue Summarization to ASR Errors with LLM-generated Synthetic Dialogues](https://arxiv.org/pdf/2408.14418), AAAI, 2025.
