@@ -22,6 +22,7 @@ I am currently a Research Scientist at I2R, A*STAR. Prior to that, I was a Resea
 My research interest includes speech synthesis, audio large language models, automatic lyrics transcription, speech recognition, speech-to-singing conversion, singing information processing, music information retrieval and multi-modal processing. I have published more than 20 papers in leading journals and conferences, including IEEE/ACM Transaction on Audio, Speech and Language Processing (TALSP), IEEE Transactions on Multimedia (TMM), EMNLP, IEEE Signal Processing Letters (SPL), Speech Communications, IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), AAAI, INTERSPEECH, ACL, IEEE ASRU, IEEE APSIPA ASC, EMNLP, IEEE Spoken Language Technology Workshop (SLT), Transactions of the Association for Computational Linguistics (TACL) and Pattern Recognition Letters.
 
 # 🔥 News
+- *2026*: &nbsp;🎉🎉 Dr. Gao serves as one of the organizers of VoiceMOS Challenge 2026! Join us through the link (https://sites.google.com/view/voicemos-challenge/voicemos-challenge-2026).
 - *2026*: &nbsp;🎉🎉 Our ACL paper has been accepted for publication!
 - *2026*: &nbsp;🎉🎉 Our Pattern Recognition Letters has been accepted for publication!
 - *2026*: &nbsp;🎉🎉 Our TACL paper has been accepted for publication!
@@ -62,9 +63,6 @@ My research interest includes speech synthesis, audio large language models, aut
 - *2023.11 - 2024.01*, Visiting Researcher, Academia Sinica.
 - *2022.11 - 2023.11*, Research Fellow, National University of Singapore (NUS), Singapore.
 - *2022.07 - 2022.08*, Research Scholar, National Institute of Informatics, Japan.
-- *2019.07*, Research Scholar, University of Crete, Greece.
-- *2018.11 - 2021.12*, Research Engineer, National University of Singapore (NUS), Singapore.
-- *2018.01 - 2018.11*, Research Asistant, National University of Singapore (NUS), Singapore.
 
 # 📖 Educations
 - *2017.08 - 2022.10*, Ph.D. in Electrical and Computer Engineering, National University of Singapore (NUS), Singapore.
@@ -125,8 +123,7 @@ My research interest includes speech synthesis, audio large language models, aut
 # 💻 Internships
 - *2023.11 - 2024.01*, Visiting Researcher, Academia Sinica.
 - *2022.07 - 2022.08*, National Institute of Informatics, Japan.
-- *2019.07*, Research Scholar at the Speech Processing Courses Summer School, University of Crete, Heraklion Crete, Greece.
-
+- 
 
 # 📚 Research Web Platform
 - Speech and Singing Parallel Database: [https://hltnus.github.io/NHSSDatabase/](https://hltnus.github.io/NHSSDatabase/)
@@ -134,5 +131,6 @@ My research interest includes speech synthesis, audio large language models, aut
 
 
 # 👔 Projects
+
 - Human-Robot Collaborative AI for Advanced Manufacturing And Engineering, NUS, Singapore.
 - Perfect Singing Vocals, NUS, Singapore.
