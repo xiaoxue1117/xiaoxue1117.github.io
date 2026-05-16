@@ -72,7 +72,7 @@ My research interest includes speech synthesis, audio large language models, aut
 
 # 📝 Publications 
 -- **Journal Papers** --
-- Yiming Chen, Xianghu Yue, Chen Zhang, **Xiaoxue Gao<sup>`*`</sup>**, Robby T. Tan\ and Haizhou Li, [Voicebench: Benchmarking llm-based voice assistants](https://direct.mit.edu/tacl/article/doi/10.1162/TACL.a.628/136245), Transactions of the Association for Computational Linguistics (TACL), 2026.
+- Yiming Chen, Xianghu Yue, Chen Zhang, **Xiaoxue Gao<sup>`*`</sup>**, Robby T. Tan and Haizhou Li, [Voicebench: Benchmarking llm-based voice assistants](https://direct.mit.edu/tacl/article/doi/10.1162/TACL.a.628/136245), Transactions of the Association for Computational Linguistics (TACL), 2026.
 - **Xiaoxue Gao**, Huayun Zhang and Nancy F. Chen, [Prompt-Unseen-Emotion: Mixed Emotional Speech Synthesis With Prompt-LLM Contextual Knowledge](https://ieeexplore.ieee.org/abstract/document/11223079/), SPL, 2025.
 - **Xiaoxue Gao**, Yiming Chen, Xianghu Yue, Yu Tsao and Nancy F. Chen, [TTSlow: Slow Down Text-to-Speech with Efficiency Robustness Evaluations](https://arxiv.org/pdf/2407.01927), TALSP, 2025.
 - Ruijie Tao, Xinyuan Qian, Rohan Kumar Das, **Xiaoxue Gao**, Jiadong Wang and Haizhou Li, [Enhancing Real-World Active Speaker Detection with Multi-Modal Extraction Pre-Training](https://arxiv.org/pdf/2404.00861), TMM, 2024.
