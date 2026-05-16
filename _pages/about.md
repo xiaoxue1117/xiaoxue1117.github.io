@@ -131,6 +131,12 @@ My research interest includes speech synthesis, audio large language models, aut
 
 
 # 👔 Projects
-
+- Synthetic Data Generation for Scaling Multilingual Models, A*STAR, Singapore
+- Expressive and Empathetic Human-AI Interaction by Enhancing Multilingual, Multi-modal Large Language Model, A*STAR, Singapore.
+- Heterogeneous Preference Learning for Value-Aligned Large Language Models in Multicultural Societies: A Resource-Efficient Approach, A*STAR, Singapore.
+- Intelligent Modelling for Decision-making in Critical Urban Systems, A*STAR, Singapore
+- Building National-Level Capability in Large Language Models “National LLM”, A*STAR, Singapore
+- SpeechEval Phase II: SHE4EDU (Speech Highlighter and Evaluation for Education), A*STAR, Singapore
+- SingaKids Pic2Speak: Multilingual AI Tutor – Uplifting Singapore’s Bilingual Edge, A*STAR, Singapore
 - Human-Robot Collaborative AI for Advanced Manufacturing And Engineering, NUS, Singapore.
 - Perfect Singing Vocals, NUS, Singapore.
