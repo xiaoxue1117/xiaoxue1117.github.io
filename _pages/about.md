@@ -117,14 +117,10 @@ My research interest includes speech synthesis, audio large language models, aut
 - *2015* **National Second Prize**, National Undergraduate Electronic Design Contest.
 
 
-
-
 # 💬 Talks
+- *2025.06*, Generative AI in Speech: from Muscle Signals to Text, SINFRA 2025, France.
 - *2022.08*, Automatic Lyrics Transcription of Polyphonic Music, National Institute of Informatics, Japan.
-- *2022.06*, Music-robust Automatic Lyrics Transcription of Polyphonic Music, SMC 2022, France (virtual).
-- *2022.05*, Genre-conditioned Acoustic Models for Automatic Lyrics Transcription of Polyphonic Music, ICASSP, Singapore.
-- *2019.11*, Speaker-independent Spectral Mapping for Speech-to-Singing Conversion, IEEE APSIPA ASC, Lanzhou, China.
-- *2018.10*, NUS-HLT Spoken Lyrics and Singing (SLS) Corpus, IEEE ICOT, Bali, Indonesia.
+
 
 # 💻 Internships
 - *2023.11 - 2024.01*, Visiting Researcher, Academia Sinica.
@@ -133,13 +129,9 @@ My research interest includes speech synthesis, audio large language models, aut
 
 
 # 📚 Research Web Platform
-- Personalized Speech-to-Singing Web 🎼: [https://m.youtube.com/watch?v=zjtNUbo-v7w&feature=youtu.be](https://m.youtube.com/watch?v=zjtNUbo-v7w&feature=youtu.be)
-- Speaker-independent Spectral Mapping for Speech-to-Singing Conversion: [https://xiaoxue1117.github.io/sample/](https://xiaoxue1117.github.io/sample/)
 - Speech and Singing Parallel Database: [https://hltnus.github.io/NHSSDatabase/](https://hltnus.github.io/NHSSDatabase/)
-- Personalized Singing Voice Generation Demo: [https://xiaoxue1117.github.io/odysseysample/](https://xiaoxue1117.github.io/odysseysample/)
 - Lyrics-to-Audio Alignment Interactive Web Interface 🎼: [https://autolyrixalign.hltnus.org/](https://autolyrixalign.hltnus.org/)
-- Few-shot Lyrics Transcription Demo: [https://xiaoxue1117.github.io/icassp2023/](https://xiaoxue1117.github.io/icassp2023/)
-- Integrated Training and Extractor and Lyrics Transcriber Demo: [https://xiaoxue1117.github.io/PaperSample/](https://xiaoxue1117.github.io/PaperSample/)
+
 
 # 👔 Projects
 - Human-Robot Collaborative AI for Advanced Manufacturing And Engineering, NUS, Singapore.
