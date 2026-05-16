@@ -17,11 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Research Scientist at I2R, A*STAR. Prior to that, I was a Research Fellow at the Department of Electrical and Computer Engineering (ECE), National University of Singapore (NUS). I have received a Ph.D. degree from the National University of Singapore, supervised by Prof. [Haizhou Li](https://colips.org/~eleliha/) (IEEE Fellow) and Prof. [Shuzhi Sam Ge](https://cde.nus.edu.sg/ece/staff/ge-shuzhi-sam/) (IEEE Fellow). During my PhD studies, I  was a visiting research scholar at National Institute of Informatics (Japan), supervised by Prof. [Junichi Yamagishi](https://researchmap.jp/read0205283?lang=en). I also studied at the Speech Processing Courses Summer School at the University of Crete with Prof. [Yannis Stylianou](https://www.csd.uoc.gr/CSD/index.jsp?custom=yannis_stylianou&lang=en) (IEEE Fellow). I received a B.Sc degree from Nanjing University, Nanjing, China in 2017.
+I am currently a Research Scientist at I2R, A*STAR. Prior to that, I was a Research Fellow at the Department of Electrical and Computer Engineering (ECE), National University of Singapore (NUS). I have received a Ph.D. degree from the National University of Singapore, supervised by Prof. [Haizhou Li](https://colips.org/~eleliha/) (IEEE Fellow) and Prof. [Shuzhi Sam Ge](https://cde.nus.edu.sg/ece/staff/ge-shuzhi-sam/) (IEEE Fellow). During my PhD studies, I  was a visiting research scholar at National Institute of Informatics (Japan), supervised by Prof. [Junichi Yamagishi](https://researchmap.jp/read0205283?lang=en). I received a B.Sc degree from Nanjing University, Nanjing, China in 2017.
 
-My research interest includes speech synthesis, audio large language models, automatic lyrics transcription, speech recognition, speech-to-singing conversion, singing information processing, music information retrieval and multi-modal processing. I have published more than 20 papers in leading journals and conferences, including IEEE/ACM Transaction on Audio, Speech and Language Processing (TALSP), IEEE Transactions on Multimedia (TMM), EMNLP, IEEE Signal Processing Letters (SPL), Speech Communications, IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), AAAI, INTERSPEECH, ACL, IEEE ASRU, IEEE APSIPA ASC, EMNLP, IEEE Spoken Language Technology Workshop (SLT) and Speaker Odyssey.
+My research interest includes speech synthesis, audio large language models, automatic lyrics transcription, speech recognition, speech-to-singing conversion, singing information processing, music information retrieval and multi-modal processing. I have published more than 20 papers in leading journals and conferences, including IEEE/ACM Transaction on Audio, Speech and Language Processing (TALSP), IEEE Transactions on Multimedia (TMM), EMNLP, IEEE Signal Processing Letters (SPL), Speech Communications, IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), AAAI, INTERSPEECH, ACL, IEEE ASRU, IEEE APSIPA ASC, EMNLP, IEEE Spoken Language Technology Workshop (SLT), and Transactions of the Association for Computational Linguistics (TACL).
 
 # 🔥 News
+- *2026*: &nbsp;🎉🎉 Our ACL paper has been accepted for publication!
+- *2026*: &nbsp;🎉🎉 Our TACL paper has been accepted for publication!
 - *2025*: &nbsp;🎉🎉 Dr. Gao serves as one of the organizers of AAAI 2026 worshop on audio AI. Our AAAI 2026 workshop has been accepted and is now open for submissions! 🌟 Check it in [audio-aaai](https://sites.google.com/view/audio-aaai/home).
 - *2025*: &nbsp;🎉🎉 Dr. Gao serves as one of the advisory board of ICASSP 2026 grand challenge. Our ICASSP 2026 grand challenge has been accepted and is now open for submissions! 🌟 Check it in [ICASSP 2026 Cadenza Challenge website](https://cadenzachallenge.org/docs/clip1/intro).
 - *2025*: &nbsp;🎉🎉 Our ICMI CCMI paper has been accepted for publication!
@@ -55,7 +57,7 @@ My research interest includes speech synthesis, audio large language models, aut
 </table>
 
 # 💻 Research Experiences
-- *2024.02 - Present*, Research Scientist, I2R, A*STAR.
+- *2024.02 - Present*, Research Scientist, A*STAR, Singapore.
 - *2023.11 - 2024.01*, Visiting Researcher, Academia Sinica.
 - *2022.11 - 2023.11*, Research Fellow, National University of Singapore (NUS), Singapore.
 - *2022.07 - 2022.08*, Research Scholar, National Institute of Informatics, Japan.
@@ -70,6 +72,7 @@ My research interest includes speech synthesis, audio large language models, aut
 
 # 📝 Publications 
 -- **Journal Papers** --
+- Yiming Chen, Xianghu Yue, Chen Zhang, **Xiaoxue Gao<sup>`*`</sup>**, Robby T. Tan\ and Haizhou Li, [Voicebench: Benchmarking llm-based voice assistants](https://direct.mit.edu/tacl/article/doi/10.1162/TACL.a.628/136245), Transactions of the Association for Computational Linguistics (TACL), 2026.
 - **Xiaoxue Gao**, Huayun Zhang and Nancy F. Chen, [Prompt-Unseen-Emotion: Mixed Emotional Speech Synthesis With Prompt-LLM Contextual Knowledge](https://ieeexplore.ieee.org/abstract/document/11223079/), SPL, 2025.
 - **Xiaoxue Gao**, Yiming Chen, Xianghu Yue, Yu Tsao and Nancy F. Chen, [TTSlow: Slow Down Text-to-Speech with Efficiency Robustness Evaluations](https://arxiv.org/pdf/2407.01927), TALSP, 2025.
 - Ruijie Tao, Xinyuan Qian, Rohan Kumar Das, **Xiaoxue Gao**, Jiadong Wang and Haizhou Li, [Enhancing Real-World Active Speaker Detection with Multi-Modal Extraction Pre-Training](https://arxiv.org/pdf/2404.00861), TMM, 2024.
@@ -82,6 +85,7 @@ My research interest includes speech synthesis, audio large language models, aut
 
 
 -- **Conference Papers** --
+- Weihua Zheng, Zhengyuan Liu, Tanmoy Chakraborty, Weiwen Xu, **Xiaoxue Gao**, Bryan Chen Zhengyu Tan, Bowei Zou, Chang Liu, Yujia Hu, Xing Xie, Xiaoyuan Yi, Jing Yao, Chaojun Wang, Long Li, Rui Liu, Huiyao Liu, Koji Inoue, Ryuichi Sumida, Tatsuya Kawahara, Fan Xu, Lingyu Ye, Wei Tian, Dongjun Kim, Jimin Jung, Jaehyung Seo, Nadya Yuki Wangsajaya, Pham Minh Duc, Ojasva Saxena, Palash Nandi, Xiyan Tao, Wiwik Karlina, Tuan Luong, Keertana Arun Vasan, Roy Ka-Wei Lee, and Nancy F Chen, [MMA-ASIA: A Multilingual and Multimodal Alignment Framework for Culturally-Grounded Evaluation](https://arxiv.org/pdf/2510.08608?)), ACL, 2026.
 - Xiaodan Chen, **Xiaoxue Gao<sup>`*`</sup>**, Mathias Quoy, Alexandre Pitti, Nancy F Chen, [Confidence-Based Self-Training for EMG-to-Speech: Leveraging Synthetic EMG for Robust Modeling](https://arxiv.org/pdf/2506.11862), ASRU, 2025.
 - Zhengyuan Liu, Geyu Lin, Hui Li Tan, Huayun Zhang, Yanfeng Lu, **Xiaoxue Gao**, Stella Xin Yin, He Sun, Hock Huan Goh, Lung Hsiang Wong and Nancy F. Chen, [SingaKids: A Multilingual Multimodal Dialogic Tutor for Language Learning](https://arxiv.org/pdf/2506.02412), ACL, 2025.
 - **Xiaoxue Gao**, Chen Zhang, Yiming Chen, Huayun Zhang and Nancy F. Chen, [Emo-dpo: Controllable emotional speech synthesis through direct preference optimization](https://arxiv.org/pdf/2409.10157), ICASSP, 2025.
