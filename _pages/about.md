@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Research Scientist at I2R, A*STAR. Prior to that, I was a Research Fellow at the Department of Electrical and Computer Engineering (ECE), National University of Singapore (NUS). I have received a Ph.D. degree from the National University of Singapore, supervised by Prof. [Haizhou Li](https://colips.org/~eleliha/) (IEEE Fellow) and Prof. [Shuzhi Sam Ge](https://cde.nus.edu.sg/ece/staff/ge-shuzhi-sam/) (IEEE Fellow). During my PhD studies, I  was a visiting research scholar at National Institute of Informatics (Japan), supervised by Prof. [Junichi Yamagishi](https://researchmap.jp/read0205283?lang=en). I received a B.Sc degree from Nanjing University, Nanjing, China in 2017.
+I am currently a Research Scientist at A*STAR, Singapore. Prior to that, I was a Research Fellow at the Department of Electrical and Computer Engineering (ECE), National University of Singapore (NUS). I have received a Ph.D. degree from the National University of Singapore, supervised by Prof. [Haizhou Li](https://colips.org/~eleliha/) (IEEE Fellow) and Prof. [Shuzhi Sam Ge](https://cde.nus.edu.sg/ece/staff/ge-shuzhi-sam/) (IEEE Fellow). During my PhD studies, I  was a visiting research scholar at National Institute of Informatics (Japan), supervised by Prof. [Junichi Yamagishi](https://researchmap.jp/read0205283?lang=en). I received a B.Sc degree from Nanjing University, Nanjing, China in 2017.
 
 My research interest includes speech synthesis, audio large language models, automatic lyrics transcription, speech recognition, speech-to-singing conversion, singing information processing, music information retrieval and multi-modal processing. I have published more than 20 papers in leading journals and conferences, including IEEE/ACM Transaction on Audio, Speech and Language Processing (TALSP), IEEE Transactions on Multimedia (TMM), EMNLP, IEEE Signal Processing Letters (SPL), Speech Communications, IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), AAAI, INTERSPEECH, ACL, IEEE ASRU, IEEE APSIPA ASC, EMNLP, IEEE Spoken Language Technology Workshop (SLT), Transactions of the Association for Computational Linguistics (TACL) and Pattern Recognition Letters.
 
@@ -63,6 +63,7 @@ My research interest includes speech synthesis, audio large language models, aut
 - *2023.11 - 2024.01*, Visiting Researcher, Academia Sinica.
 - *2022.11 - 2023.11*, Research Fellow, National University of Singapore (NUS), Singapore.
 - *2022.07 - 2022.08*, Research Scholar, National Institute of Informatics, Japan.
+
 
 # 📖 Educations
 - *2017.08 - 2022.10*, Ph.D. in Electrical and Computer Engineering, National University of Singapore (NUS), Singapore.
@@ -123,7 +124,7 @@ My research interest includes speech synthesis, audio large language models, aut
 # 💻 Internships
 - *2023.11 - 2024.01*, Visiting Researcher, Academia Sinica.
 - *2022.07 - 2022.08*, National Institute of Informatics, Japan.
-- 
+  
 
 # 📚 Research Web Platform
 - Speech and Singing Parallel Database: [https://hltnus.github.io/NHSSDatabase/](https://hltnus.github.io/NHSSDatabase/)
