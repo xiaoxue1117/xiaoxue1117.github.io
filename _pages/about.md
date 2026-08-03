@@ -77,6 +77,7 @@ My research interest includes speech synthesis, audio large language models, aut
 
 # 📝 Publications 
 -- **Journal Papers** --
+- Jianan Chen, **Xiaoxue Gao**, Kawahara Tatsuya and Nancy F. Chen, [LoASR-Bench: Evaluating Large Speech Language Models on Low-Resource Automatic Speech Recognition Across Language Families](https://ieeexplore.ieee.org/abstract/document/11626046), SPL, 2026.
 - Yiming Chen, Xianghu Yue, Chen Zhang, **Xiaoxue Gao<sup>`*`</sup>**, Robby T. Tan and Haizhou Li, [Voicebench: Benchmarking llm-based voice assistants](https://direct.mit.edu/tacl/article/doi/10.1162/TACL.a.628/136245), Transactions of the Association for Computational Linguistics (TACL), 2026.
 - Xianghu Yue, Xueyi Zhang, **Xiaoxue Gao**, Mengling Feng, Mingrui Lao, Huiping Zhuang, Haizhou Li, [Pal: Prompting analytic learning with missing modality for multi-modal class-incremental learning](https://www.sciencedirect.com/science/article/pii/S0031320326004334?casa_token=AiR90QJQDiQAAAAA:sceyVtpYlgnKjouJHkyNaDcfh-3myo_wCbYmfx8i1fGbH1eUwmLMkzbA0cxCjO26cMMZ3ye4a6o), Pattern Recognition Letters, 2026.
 - **Xiaoxue Gao**, Huayun Zhang and Nancy F. Chen, [Prompt-Unseen-Emotion: Mixed Emotional Speech Synthesis With Prompt-LLM Contextual Knowledge](https://ieeexplore.ieee.org/abstract/document/11223079/), SPL, 2025.
