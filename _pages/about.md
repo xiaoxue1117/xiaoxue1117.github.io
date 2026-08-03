@@ -22,6 +22,11 @@ I am currently a Research Scientist at A*STAR, Singapore. Prior to that, I was a
 My research interest includes speech synthesis, audio large language models, automatic lyrics transcription, speech recognition, speech-to-singing conversion, singing information processing, music information retrieval and multi-modal processing. I have published more than 20 papers in leading journals and conferences, including IEEE/ACM Transaction on Audio, Speech and Language Processing (TALSP), IEEE Transactions on Multimedia (TMM), EMNLP, IEEE Signal Processing Letters (SPL), Speech Communications, IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), AAAI, INTERSPEECH, ACL, IEEE ASRU, IEEE APSIPA ASC, EMNLP, IEEE Spoken Language Technology Workshop (SLT), Transactions of the Association for Computational Linguistics (TACL) and Pattern Recognition Letters.
 
 # 🔥 News
+- *2026*: &nbsp;🎉🎉 Dr. Gao serves as one of the organizers of [AACL 2026 workshop](https://2026.aaclnet.org/program/workshops/)! More details for paper submissions in the [TrustAudio website](https://trustaudio.github.io/)!
+- *2026*: &nbsp;🎉🎉 One Signal Processing Letters paper has been accepted for publication!
+- *2026*: &nbsp;🎉🎉 Two APSIPA papers have been accepted for publication!
+- *2026*: &nbsp;🎉🎉 Two Interspeech papers have been accepted for publication!
+- *2026*: &nbsp;🎉🎉 Our IJCAI paper has been accepted for publication!
 - *2026*: &nbsp;🎉🎉 Dr. Gao serves as one of the organizers of VoiceMOS Challenge 2026! Join us through the [VoiceMOS 2026 website](https://sites.google.com/view/voicemos-challenge/voicemos-challenge-2026).
 - *2026*: &nbsp;🎉🎉 Our ACL paper has been accepted for publication!
 - *2026*: &nbsp;🎉🎉 Our Pattern Recognition Letters has been accepted for publication!
