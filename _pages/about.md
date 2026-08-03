@@ -93,7 +93,7 @@ My research interest includes speech synthesis, audio large language models, aut
 
 -- **Conference Papers** --
 - Zi Haur Pang, **Xiaoxue Gao<sup>`*`</sup>**, Kawahara Tatsuya and Nancy F Chen, [ERM-MinMaxGAP: Benchmarking and Mitigating Gender Bias in
-Multilingual Multimodal Speech-LLM Emotion Recognition](https://arxiv.org/pdf/2603.21050), Interspeech, 2026.
+Multilingual Multimodal Speech-LLM Emotion Recognition](https://arxiv.org/pdf/2603.21050), Interspeech, 2026. [Non-archival@ICML Workshop](https://mlforaudioworkshop.github.io/)
 - Yihang Lin, Li Zhou, Congwei Cao, Dongchu Xie, **Xiaoxue Gao**, Chen Zhang and Haizhou Li, [Emo-LiPO: Listwise Preference Optimization for Fine-Grained Emotion Intensity Control in LLM-based Text-to-Speech](https://arxiv.org/pdf/2606.13006), IJCAI, 2026.
 - Weihua Zheng, Zhengyuan Liu, Tanmoy Chakraborty, Weiwen Xu, **Xiaoxue Gao**, Bryan Chen Zhengyu Tan, Bowei Zou, Chang Liu, Yujia Hu, Xing Xie, Xiaoyuan Yi, Jing Yao, Chaojun Wang, Long Li, Rui Liu, Huiyao Liu, Koji Inoue, Ryuichi Sumida, Tatsuya Kawahara, Fan Xu, Lingyu Ye, Wei Tian, Dongjun Kim, Jimin Jung, Jaehyung Seo, Nadya Yuki Wangsajaya, Pham Minh Duc, Ojasva Saxena, Palash Nandi, Xiyan Tao, Wiwik Karlina, Tuan Luong, Keertana Arun Vasan, Roy Ka-Wei Lee, and Nancy F Chen, [MMA-ASIA: A Multilingual and Multimodal Alignment Framework for Culturally-Grounded Evaluation](https://arxiv.org/pdf/2510.08608?), ACL, 2026.
 - Xiaodan Chen, **Xiaoxue Gao<sup>`*`</sup>**, Mathias Quoy, Alexandre Pitti, Nancy F Chen, [Confidence-Based Self-Training for EMG-to-Speech: Leveraging Synthetic EMG for Robust Modeling](https://arxiv.org/pdf/2506.11862), ASRU, 2025.
