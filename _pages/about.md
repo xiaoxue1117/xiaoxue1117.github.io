@@ -19,7 +19,7 @@ redirect_from:
 
 I am a tenure-track Assistant Professor in the School of Artificial Intelligence (SAI) at The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen), China. Before joining CUHK-Shenzhen, I was a Research Scientist at A*STAR, Singapore, an Associate Faculty at the Singapore Institute of Technology (SIT), teaching the Large Language Models module, and a Research Fellow in the Department of Electrical and Computer Engineering (ECE) at the National University of Singapore (NUS). I have received a Ph.D. degree from the National University of Singapore, supervised by Prof. [Haizhou Li](https://colips.org/~eleliha/) (IEEE Fellow) and Prof. [Shuzhi Sam Ge](https://cde.nus.edu.sg/ece/staff/ge-shuzhi-sam/) (IEEE Fellow). During my PhD studies, I  was a visiting research scholar at National Institute of Informatics (Japan), supervised by Prof. [Junichi Yamagishi](https://researchmap.jp/read0205283?lang=en). I received a B.Sc degree from Nanjing University, Nanjing, China in 2017.
 
-My research interest includes speech synthesis, audio large language models, automatic lyrics transcription, speech recognition, speech-to-singing conversion, singing information processing, music information retrieval and multi-modal processing. I have published high-impact top-tier AI journals and conferences, including IEEE Transaction on Audio, Speech and Language Processing (TALSP), IEEE Transactions on Multimedia (TMM), IEEE Signal Processing Letters (SPL), Speech Communications, IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), ACL, EMNLP, AAAI, INTERSPEECH, IEEE ASRU, IEEE APSIPA ASC, IEEE Spoken Language Technology Workshop (SLT), Transactions of the Association for Computational Linguistics (TACL) and Pattern Recognition Letters.
+My research interest includes multilingual speech and audio intelligence, multimodal language models, music and singing processing, and trustworthy AI. I have published high-impact top-tier AI journals and conferences, including IEEE Transaction on Audio, Speech and Language Processing (TALSP), IEEE Transactions on Multimedia (TMM), IEEE Signal Processing Letters (SPL), Speech Communications, IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), ACL, EMNLP, AAAI, INTERSPEECH, IEEE ASRU, IEEE APSIPA ASC, IEEE Spoken Language Technology Workshop (SLT), Transactions of the Association for Computational Linguistics (TACL) and Pattern Recognition Letters.
 
 🔥🔥 I am recruiting **fully funded PhD students, Research Assistants/Research Engineers, master's students, and research interns (on-site or remote)** to work on research in speech, singing, multimodal AI, and trustworthy AI. Students and researchers will have access to extensive GPU resources and opportunities to collaborate with leading researchers such as Prof. Haizhou Li (IEEE Fellow). Outstanding candidates may also be recommended for PhD programs and research internships at top universities and research labs in Singapore, the US, Japan, and the UK, as well as opportunities at top-tier technology companies and industrial research labs such as Google DeepMind, Meta, and Microsoft. If you are interested, email me at gaoxiaoxue@cuhk.edu.cn with your CV and indicate the position you are applying for. Please review CUHK-Shenzhen SAI’s admission requirements on [the official website](https://sai.cuhk.edu.cn/en/node/35) before contacting me.🔥🔥
 
@@ -35,7 +35,6 @@ My research interest includes speech synthesis, audio large language models, aut
 - *2026*: &nbsp;🎉🎉 Our TACL paper has been accepted for publication!
 - *2025*: &nbsp;🎉🎉 Dr. Gao serves as one of the organizers of AAAI 2026 worshop on audio AI. Our AAAI 2026 workshop has been accepted and is now open for submissions! 🌟 Check it in [audio-aaai](https://sites.google.com/view/audio-aaai/home).
 - *2025*: &nbsp;🎉🎉 Dr. Gao serves as one of the advisory board of ICASSP 2026 grand challenge. Our ICASSP 2026 grand challenge has been accepted and is now open for submissions! 🌟 Check it in [ICASSP 2026 Cadenza Challenge website](https://cadenzachallenge.org/docs/clip1/intro).
-- *2025*: &nbsp;🎉🎉 Our ICMI CCMI paper has been accepted for publication!
 - *2025*: &nbsp;🎉🎉 Our IEEE ASRU paper has been accepted for publication!
 - *2025*: &nbsp;🎉🎉 Our ACL paper has been accepted for publication!
 - *2025*: &nbsp;🎉🎉 Our TALSP regular paper has been accepted for publication!
@@ -43,7 +42,6 @@ My research interest includes speech synthesis, audio large language models, aut
 - *2024*: &nbsp;🎉🎉 Our AAAI has been accepted for publication!
 - *2024*: &nbsp;🎉🎉 Our TMM has been accepted for publication!
 - *2024*: &nbsp;🎉🎉 Our EMNLP has been accepted for publication!
-- *2024*: &nbsp;🎉🎉 Our SLT has been accepted for publication!
 - *2024*: &nbsp;🎉🎉 Two Signal Processing Letters have been accepted for publication!
 - *2023*: &nbsp;🎉🎉 Dr. Gao was invited as the leading Guest Editor of the special issue "Modeling of Multimodal Speech Recognition and Language Processing" in Electronics (IF:2.9, ISSN 2079-9292).
 - *2023*: &nbsp;🎉🎉 Our TALSP regular paper has been accepted for publication!
@@ -54,14 +52,14 @@ My research interest includes speech synthesis, audio large language models, aut
 # 📜 Research Area
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
-    <td style="border: none;"> <font color="#0b5394"> Speech Processing </font>: <BR>&nbsp;&nbsp; Automatic speech recognition；Speech-to-singing conversion; Voice conversion; Speech synthesis; Audio security</td>
-    <td style="border: none;"> <font color="#0b5394"> Singing Processing </font>: <BR>&nbsp;&nbsp; Speech-to-singing conversion; Singing voice conversion; Automatic lyrics transcription of solo-singing; Lyrics-to-audio alignment</td>
-    <td style="border: none;"> <font color="#0b5394"> Music Information Retrieval </font>: <BR>&nbsp;&nbsp; Automatic lyrics transcription of polyphonic music; Automatic chord transcription; Music source separation; Automatic musical genre recognition</td>
+    <td style="border: none;"> <font color="#0b5394"> Speech and Audio Intelligence </font>: <BR>&nbsp;&nbsp; Automatic speech recognition；Speech Emotion Recognition; Voice conversion; Speech synthesis; Audio captioning</td>
+    <td style="border: none;"> <font color="#0b5394"> Singing Processing </font>: <BR>&nbsp;&nbsp; Speech-to-singing conversion; Singing voice conversion; Automatic lyrics transcription; Lyrics-to-audio alignment</td>
+    <td style="border: none;"> <font color="#0b5394"> Music Information Retrieval </font>: <BR>&nbsp;&nbsp; Automatic lyrics transcription of polyphonic music; Chord transcription; Music source separation; Musical genre recognition</td>
   </tr>
   <tr style="border: none;">
-    <td style="border: none;"> <font color="#0b5394"> Multi-modal Processing </font>: <BR>&nbsp;&nbsp; Audio-visual active speaker detection </td>
-    <td style="border: none;"> <font color="#0b5394"> Self-supervised Learning </font>: <BR>&nbsp;&nbsp; Self-supervised speech processing; Self-supervised language processing </td>
-    <td style="border: none;"> <font color="#0b5394"> Large Language Models </font>: <BR>&nbsp;&nbsp; Audio large language models; speech LLMs; speech synthesis with large language models </td>
+    <td style="border: none;"> <font color="#0b5394"> Multi-modal Processing</font>: <BR>&nbsp;&nbsp; Audio-visual active speaker detection; Large audio language models; Multimodal generation. </td>
+    <td style="border: none;"> <font color="#0b5394"> Self-supervised Learning </font>: <BR>&nbsp;&nbsp; Self-supervised speech processing; Self-supervised language processing. </td>
+    <td style="border: none;"> <font color="#0b5394"> Large Language Models </font>: <BR>&nbsp;&nbsp; Large audio language models; Speech LLMs; Speech synthesis with large language models; Multilingual LLMs. </td>
   </tr>
 </table>
 
