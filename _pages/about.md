@@ -52,9 +52,9 @@ My research interest includes multilingual speech and audio intelligence, multim
 # 📜 Research Area
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
-    <td style="border: none;"> <font color="#0b5394"> Speech and Audio Intelligence </font>: <BR>&nbsp;&nbsp; Automatic speech recognition；Speech Emotion Recognition; Speech synthesis; Audio captioning; Agentic AI in speech and audio.</td>
-    <td style="border: none;"> <font color="#0b5394"> Singing and Music Processing </font>: <BR>&nbsp;&nbsp; Speech-to-singing conversion; Singing voice conversion; Automatic lyrics transcription; Lyrics-to-audio alignment; Chord transcription; Music source separation; Musical genre recognition.</td>
-    <td style="border: none;"> <font color="#0b5394"> Trustworthy AI </font>: <BR>&nbsp;&nbsp; Audio security and safety; Robustness and adversarial security; Fairness and bias in speech AI; LLM Jailbreak and safety alignment.</td>
+    <td style="border: none;"> <font color="#0b5394"> Speech and Audio Intelligence </font>: <BR>&nbsp;&nbsp; Automatic speech recognition；Speech Emotion Recognition; Speech synthesis; Audio captioning; Agentic AI in speech and audio. </td>
+    <td style="border: none;"> <font color="#0b5394"> Singing and Music Processing </font>: <BR>&nbsp;&nbsp; Speech-to-singing conversion; Singing voice conversion; Singing generation; Lyrics-to-audio alignment; Chord transcription; Music source separation; Musical genre recognition. </td>
+    <td style="border: none;"> <font color="#0b5394"> Trustworthy AI </font>: <BR>&nbsp;&nbsp; Audio security and safety; Robustness and adversarial security; Fairness and bias in speech AI; LLM Jailbreak and safety alignment. </td>
   </tr>
   <tr style="border: none;">
     <td style="border: none;"> <font color="#0b5394"> Multi-modal Processing</font>: <BR>&nbsp;&nbsp; Audio-visual active speaker detection; Large audio language models; Multimodal generation. </td>
