@@ -25,12 +25,9 @@ My research interest includes multilingual speech and audio intelligence, multim
 
 🔥🔥 📅 **Master of Philosophy and PhD Application Deadlines**：🔥🔥 
 
--Spring 2027 Intake: **31 October 2026**🌱 
+-🌱Spring 2027 Intake: **31 October 2026** [https://sai.cuhk.edu.cn/en/node/35](https://sai.cuhk.edu.cn/en/node/35)
 
--Fall 2027 Intake: **31 May 2027**🍂 
-
-🔗 Programme & Application Information:
-[https://sai.cuhk.edu.cn/en/node/35](https://sai.cuhk.edu.cn/en/node/35)
+-🍂Fall 2027 Intake: **31 May 2027** [https://sai.cuhk.edu.cn/en/node/35](https://sai.cuhk.edu.cn/en/node/35)
 
 ⭐ Applications are reviewed on a rolling basis. Early applications are strongly encouraged!
 
