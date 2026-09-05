@@ -23,13 +23,14 @@ My research interest includes multilingual speech and audio intelligence, multim
 
 🔥🔥 I am recruiting **fully funded PhD students, Research Assistants/Research Engineers, Master's students, Research interns (on-site or remote) and Visiting students** to work on research in speech, singing, multimodal AI, and trustworthy AI. Students and researchers will have access to extensive GPU resources and opportunities to collaborate with leading researchers such as Prof. Haizhou Li (IEEE Fellow). Outstanding candidates may also be recommended for PhD programs and research internships at top universities and research labs in Singapore, the US, Japan, and the UK, as well as opportunities at top-tier technology companies and industrial research labs such as Google DeepMind, Meta, and Microsoft. If you are interested, email me at gaoxiaoxue@cuhk.edu.cn with your CV and indicate the position you are applying for. Please review CUHK-Shenzhen SAI’s admission requirements on [the official website](https://sai.cuhk.edu.cn/en/node/35) before contacting me.🔥🔥
 
-🔥🔥 📅 **Master of Philosophy and PhD Application Deadlines**：🔥🔥 
+🔥🔥 **Master of Philosophy and PhD Application Deadlines**：🔥🔥 
 
--🌱Spring 2027 Intake: **31 October 2026** [https://sai.cuhk.edu.cn/en/node/35](https://sai.cuhk.edu.cn/en/node/35)
+📅🌱Spring 2027 Intake: **31 October 2026**，apply at [https://sai.cuhk.edu.cn/en/node/35](https://sai.cuhk.edu.cn/en/node/35)
 
--🍂Fall 2027 Intake: **31 May 2027** [https://sai.cuhk.edu.cn/en/node/35](https://sai.cuhk.edu.cn/en/node/35)
+📅🍂Fall 2027 Intake: **31 May 2027**, apply at [https://sai.cuhk.edu.cn/en/node/35](https://sai.cuhk.edu.cn/en/node/35)
 
 ⭐ Applications are reviewed on a rolling basis. Early applications are strongly encouraged!
+
 
 # 🔥 News
 - *2026*: &nbsp;🎉🎉 Dr. Gao serves as one of the organizers of [AACL 2026 TrustAudio workshop](https://2026.aaclnet.org/program/workshops/)! More details for paper submissions in the [TrustAudio website](https://trustaudio.github.io/)!
