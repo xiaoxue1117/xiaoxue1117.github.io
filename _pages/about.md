@@ -33,6 +33,8 @@ My research interest includes multilingual speech and audio intelligence, multim
 
 
 # 🔥 News
+- *2026*: &nbsp;🎉🎉 Dr. Gao serves as one of the organizers of [AAAI 2027 workshop](https://aaai.org/conference/aaai/aaai-27/aaai-27-workshop-program-list/)! More details for paper submissions in the [Audio-AAAI2 website](https://sites.google.com/view/audio-aaai/home2027)!
+- *2026*: &nbsp;🎉🎉 One AACL paper and one AACL workshop paper have been accepted for publication!
 - *2026*: &nbsp;🎉🎉 Dr. Gao serves as one of the organizers of [AACL 2026 TrustAudio workshop](https://2026.aaclnet.org/program/workshops/)! More details for paper submissions in the [TrustAudio website](https://trustaudio.github.io/)!
 - *2026*: &nbsp;🎉🎉 One Signal Processing Letters paper has been accepted for publication!
 - *2026*: &nbsp;🎉🎉 Two APSIPA papers have been accepted for publication!
@@ -102,6 +104,8 @@ My research interest includes multilingual speech and audio intelligence, multim
 
 
 -- **Conference Papers** --
+- Jiawen Wang, **Xiaoxue Gao<sup>`*`</sup>**, Zi Haur Pang, and Nancy F. Chen, [EXAM2: Extending Audio Understanding in Multilingual and Multimodal Analysis](https://arxiv.org/pdf/2608.23758), AACL findings, 2026.
+- Zexin Li, Ruili Yao, Yiming Zeng and **Xiaoxue Gao<sup>`*`</sup>**, [Boosting Transferable Adversarial Attacks against Deep Reinforcement Learning](https://arxiv.org/pdf/2610.06083), AACL workshop, 2026.
 - Zi Haur Pang, **Xiaoxue Gao<sup>`*`</sup>**, Kawahara Tatsuya and Nancy F Chen, [ERM-MinMaxGAP: Benchmarking and Mitigating Gender Bias in
 Multilingual Multimodal Speech-LLM Emotion Recognition](https://arxiv.org/pdf/2603.21050), Interspeech, 2026. [Non-archival@ICML Workshop](https://mlforaudioworkshop.github.io/)
 - Yihang Lin, Li Zhou, Congwei Cao, Dongchu Xie, **Xiaoxue Gao**, Chen Zhang and Haizhou Li, [Emo-LiPO: Listwise Preference Optimization for Fine-Grained Emotion Intensity Control in LLM-based Text-to-Speech](https://arxiv.org/pdf/2606.13006), IJCAI, 2026.
