@@ -106,6 +106,7 @@ My research interest includes multilingual speech and audio intelligence, multim
 -- **Conference Papers** --
 - Jiawen Wang, **Xiaoxue Gao<sup>`*`</sup>**, Zi Haur Pang, and Nancy F. Chen, [EXAM2: Extending Audio Understanding in Multilingual and Multimodal Analysis](https://arxiv.org/pdf/2608.23758), AACL findings, 2026.
 - Zexin Li, Ruili Yao, Yiming Zeng and **Xiaoxue Gao<sup>`*`</sup>**, [Boosting Transferable Adversarial Attacks against Deep Reinforcement Learning](https://arxiv.org/pdf/2610.06083), AACL workshop, 2026.
+- Erica Cooper, **Xiaoxue Gao**, Takuma Okamoto, Tomoki Toda, Nancy F Chen and Hisashi Kawai, [A Large-Scale Dataset of Listener Impressions of Emotional TTS](https://www.isca-archive.org/interspeech_2026/cooper26_interspeech.pdf), Interspeech, 2026.
 - Zi Haur Pang, **Xiaoxue Gao<sup>`*`</sup>**, Kawahara Tatsuya and Nancy F Chen, [ERM-MinMaxGAP: Benchmarking and Mitigating Gender Bias in
 Multilingual Multimodal Speech-LLM Emotion Recognition](https://arxiv.org/pdf/2603.21050), Interspeech, 2026. [Non-archival@ICML Workshop](https://mlforaudioworkshop.github.io/)
 - Yihang Lin, Li Zhou, Congwei Cao, Dongchu Xie, **Xiaoxue Gao**, Chen Zhang and Haizhou Li, [Emo-LiPO: Listwise Preference Optimization for Fine-Grained Emotion Intensity Control in LLM-based Text-to-Speech](https://arxiv.org/pdf/2606.13006), IJCAI, 2026.
